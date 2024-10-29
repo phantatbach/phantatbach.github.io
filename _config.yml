@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://phantatbach.github.io" # the base hostname & protocol for your site
 twitter_username: phantatbach
 github_username: phantatbach
+facebook_username: phantatbach
 
 theme: minima # or any other theme you choose
 exclude:
