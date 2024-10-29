@@ -1,8 +1,3 @@
----
-layout: default
-title: Bách
----
-
 # About me
 
 I am a PhD student @[QLVL Research Group](https://www.arts.kuleuven.be/ling/qlvl) @[KU Leuven](https://www.kuleuven.be/kuleuven), working as part of the MSCA funded Doctoral Network [CASCADE](https://www.horizoncascade.net/).
