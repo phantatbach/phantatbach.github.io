@@ -7,7 +7,7 @@ url: "https://phantatbach.github.io" # the base hostname & protocol for your sit
 twitter_username: phantatbach
 github_username: phantatbach
 
-theme: jekyll-theme-simplex # or any other theme you choose
+theme: minima # or any other theme you choose
 exclude:
   - README.md
 
