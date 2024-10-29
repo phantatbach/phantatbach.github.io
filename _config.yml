@@ -8,3 +8,7 @@ twitter_username: phantatbach
 github_username: phantatbach
 
 theme: minima # or any other theme you choose
+
+exclude:
+  - README.md
+
