@@ -7,9 +7,15 @@ My other interests are Physics, Physiology, Martial Arts, Vocal Science (I am a 
 
 ## Contact
 [Email](mailto:phantatbach@gmail.com)
+
 [Github](http://github.com/phantatbach)
+
 [Linkedin](http://linkedin.com/in/phantatbach)
+
 [Facebook](http://facebook.com/phantatbach)
+
 [X](http://twitter.com/phantatbach)
+
 [OCRID](https://orcid.org/0000-0002-8216-4978)
+
 [Youtube](https://www.youtube.com/@bachphantat) (for singing only)
