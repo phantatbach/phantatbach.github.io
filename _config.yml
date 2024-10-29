@@ -14,11 +14,11 @@ theme: minima # or any other theme you choose
 exclude:
   - README.md
 
-social_links:
- - { platform: facebook,       user_url: "https://www.facebook.com/phantatbach" }
- - { platform: github,         user_url: "https://github.com/phantatbach" }
- - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=wqWxx7wAAAAJ" }
- - { platform: linkedin,       user_url: "https://www.linkedin.com/in/phantatbach" }
- - { platform: x,              user_url: "https://x.com/phantatbach" }
- - { platform: youtube,        user_url: "https://www.youtube.com/@bachphantat" }
+  social_links:
+   - { platform: facebook,       user_url: "https://www.facebook.com/phantatbach" }
+   - { platform: github,         user_url: "https://github.com/phantatbach" }
+   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=wqWxx7wAAAAJ" }
+   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/phantatbach" }
+   - { platform: x,              user_url: "https://x.com/phantatbach" }
+   - { platform: youtube,        user_url: "https://www.youtube.com/@bachphantat" }
 
