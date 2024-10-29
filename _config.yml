@@ -4,13 +4,21 @@ description: >- # this means to ignore newlines until "baseurl:"
   My personal site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://phantatbach.github.io" # the base hostname & protocol for your site
-twitter_username: phantatbach
-github_username: phantatbach
-facebook_username: phantatbach
-linkedin_username: phantatbach
-youtube_username: @bachphantat
+# twitter_username: phantatbach
+# github_username: phantatbach
+# facebook_username: phantatbach
+# linkedin_username: phantatbach
+# youtube_username: @bachphantat
 
 theme: minima # or any other theme you choose
 exclude:
   - README.md
+
+social_links:
+ - { platform: facebook,       user_url: "https://www.facebook.com/phantatbach" }
+ - { platform: github,         user_url: "https://github.com/phantatbach" }
+ - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=wqWxx7wAAAAJ" }
+ - { platform: linkedin,       user_url: "https://www.linkedin.com/in/phantatbach" }
+ - { platform: x,              user_url: "https://x.com/phantatbach" }
+ - { platform: youtube,        user_url: "https://www.youtube.com/@bachphantat" }
 
