@@ -13,7 +13,7 @@ width="640"
 height="480" 
 allow="autoplay" 
 style="border: none; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);" >
- </iframe>
+</iframe>
 
 Failures are often unseen, while successes are noticeable. Because of this, many mistakenly think that everything works out well for me and consequently they tend to blame themselves for their own failures instead of considering that the world is unpredictable. 
 
