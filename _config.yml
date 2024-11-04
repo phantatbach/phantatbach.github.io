@@ -41,6 +41,3 @@ comments:
 
 plugins:
  - jekyll-feed
-
-include:
-  - "_media"

@@ -6,7 +6,8 @@ permalink: /
 
 # About me 
 Hi, I'm Bách, a Linguist/Cognitive Scientist from Vietnam.
-<img src="/_media/Mugshot.jpg" alt="Mugshot" style="float: right; margin-left: 20px;">
+<img src="/_media/Mugshot.jpg" alt="Mugshot" style="float: right; margin-left: 20px; width: 150px; height: auto;">
+
 
 I am a PhD student at [QLVL Research Group](https://www.arts.kuleuven.be/ling/qlvl) @ KU Leuven, working as part of the MSCA funded Doctoral Network [CASCADE](https://www.horizoncascade.net/).
 I developed an interest in Linguistics in the third year of my Finance undergrad. I then obtained an MSc in Linguistics from the University of Stirling (Scotland) and I am currently expanding my understanding of the field of Cognition (Philosophy, Psychology, Neuroscience, Artificial Intelligence). My linguistics research interests are Semantics, Language Change and Variation, Construction Grammar, Grammaticalisation. I am familiar with Quantitative/Statistical methods, Python Programming, and several Machine/Deep Learning models. Besides learning and researching about languages, I'm also experienced in teaching languages (English, Vietnamese) to different types of learners. 
