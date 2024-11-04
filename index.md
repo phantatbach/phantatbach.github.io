@@ -19,7 +19,7 @@ My other interests are Physics, Physiology, Martial Arts, Vocal Science (I am a 
 
 - [Curriculum Vitae](cv.md)
 - [Classes](classes.md)
-- [Articles (both linguistic and non-linguistic)](articles.md)
+- [Articles](articles.md)
 
 ---
 
