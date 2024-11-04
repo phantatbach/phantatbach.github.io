@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md", title: "Home", icon: user}
-  - {file: "cv.md", title: "CV", icon: "fa-solid fa-file-lines"}
-  - {file: "articles.md", title: "Articles", icon: "fa-solid fa-book-open"}
-  - {file: "classes.md", title: "Classes", icon: "fa-solid fa-chalkboard-teacher"}
+  - {file: "README.md", title: "Home"}
+  - {file: "cv.md", title: "CV"}
+  - {file: "articles.md", title: "Articles"}
+  - {file: "classes.md", title: "Classes"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
