@@ -18,6 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Home", icon: user}
   - {file: "index.html", title: "Posts", icon: "fa-solid fa-book-open"}
+  - {url: "https://drive.google.com/file/d/19woS9htcB_9ryTD797sgu1C2fp-w51Wo/view", title: "Resume", icon: "fa-solid fa-file-lines"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
