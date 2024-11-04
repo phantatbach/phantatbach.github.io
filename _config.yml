@@ -6,6 +6,12 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+# Markdown processing
+
+markdown: kramdown
+kramdown:
+  input: GFM  # Enables GitHub Flavored Markdown for compatibility with advanced Markdown
+
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
