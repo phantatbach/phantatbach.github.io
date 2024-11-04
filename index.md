@@ -6,7 +6,7 @@ permalink: /
 
 # About me 
 Hi, I'm Bách, a Linguist/Cognitive Scientist from Vietnam.
-<img src="/_media/Mugshot.jpg" alt="Mugshot" style="float: right; margin-left: 20px; width: 150px; height: auto;">
+<img src="/media/Mugshot.jpg" alt="Mugshot" style="float: right; margin-left: 20px; width: 150px; height: auto;">
 
 
 I am a PhD student at [QLVL Research Group](https://www.arts.kuleuven.be/ling/qlvl) @ KU Leuven, working as part of the MSCA funded Doctoral Network [CASCADE](https://www.horizoncascade.net/).
