@@ -40,3 +40,6 @@ comments:
 
 plugins:
  - jekyll-feed
+
+include:
+  - "_assets"
