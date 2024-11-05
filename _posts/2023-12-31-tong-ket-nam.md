@@ -57,6 +57,7 @@ Kế hoạch ra báo, Tây tiến, kiếm Fubar lại phải lùi tiếp rồi.
 
 - Đỗ học bổng Tiến Sĩ của EU (MSCA), được học tại KU Leuven, ngôi trường top 1 của Bỉ về đúng mảng mà mình thích
 - Có được 1 workshop paper (co-author) đầu tiên tại NeurIPS'24
+- Mở quãng giọng lên 3 quãng 8, từ C2 - C#5, chính thức trở thành Tenor.
 - Học được khá nhiều thứ khác
 
 
