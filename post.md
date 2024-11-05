@@ -1,11 +1,5 @@
 
 
-
-20. [Impossible Languages]({% post_url ... %})
-21. [Underlying dimensions of semantic change]({% post_url ... %})
-
-# Non-linguistic articles
-
 1. ["Thợ" dạy 4.0]({% post_url ... %})
 2. [Chuyện học - thi và phốt giới Ai Eo]({% post_url ... %})
 3. [Ai Eo rồi. What's next?]({% post_url ... %})

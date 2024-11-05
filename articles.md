@@ -27,3 +27,7 @@ These are the links to my linguistic articles (in Vietnamese and translated to E
 17. [Chia Động Từ (Verb Conjugation)]({% post_url 2023-03-01-chia-dong-tu %})
 18. [Ngôn Ngữ và Toán Học (Language and Mathematics)]({% post_url 2023-05-01-ngon-ngu-va-toan-hoc %})
 19. [Generative Grammar vs AI]({% post_url 2023-10-01-generative-grammar-vs-ai %})
+20. [Impossible Languages]({% post_url 2023-10-01-impossible-languages %})
+21. [Underlying dimensions of semantic change]({% post_url 2024-09-01-underlying-dimension-of-semantic-change %})
+
+# Non-linguistic articles
