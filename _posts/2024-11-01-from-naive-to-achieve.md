@@ -43,5 +43,5 @@ Lịch trình 1 ngày của mình trong năm 2023 và đầu 2024:
 - Tối: Dạy
 
 <div style="display: flex; justify-content: center; padding: 20px;">
-    <img src="{{ site.baseurl }}/assets/media/posts/2024-11-01-from-naive-to-achieve" alt="Illustration" style="width: 500px; height: auto;">
+    <img src="{{ site.baseurl }}/assets/media/posts/2024-11-01-from-naive-to-achieve.jpg" alt="Illustration" style="width: 500px; height: auto;">
 </div>
