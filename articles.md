@@ -36,7 +36,7 @@ These are the links to my non-linguistic articles in Vietnamese:
 
 1. ["Thợ" dạy 4.0]({% post_url 2022-05-01-tho-day-40 %})
 2. [Chuyện học - thi và phốt giới Ai Eo]({% post_url 2022-05-01-chuyen-hoc-thi-va-phot-gioi-ai-eo %})
-3. [Ai Eo rồi. What's next?]({% post_url 2022-05=01-ai-eo-roi-whats-next %})
+3. [Ai Eo rồi. What's next?]({% post_url 2022-05-01-ai-eo-roi-whats-next %})
 4. [Trải nghiệm về việc học ở Anh]({% post_url 2022-05-01-trai-nghiem-ve-viec-hoc-o-anh %})
 5. [Chi phí du học Thạc Sĩ tại Anh]({% post_url 2022-05-01-chi-phi-du-hoc-thac-si-tai-uk %})
 6. [Có nên đi du học Thạc Sĩ?]({% post_url 2022-05-01-co-nen-di-du-hoc-thac-si %})
