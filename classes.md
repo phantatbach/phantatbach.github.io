@@ -13,4 +13,4 @@ permalink: /classes/
 
 2. Chính sách cho học viên (bao gồm cách thức đăng kí):
 
-   - [Policy]({% post_url 2021-01-class-policy %})
+   - [Policy]({% post_url 2021-01-01-class-policy %})
