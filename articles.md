@@ -24,3 +24,6 @@ These are the links to my linguistic articles (in Vietnamese and translated to E
 14. [Đại Học và Trường Đại Học]({% post_url 2022-12-01-dai-hoc-va-truong-dai-hoc %})
 15. [Về Phát âm, Nghe, Nói (On Pronunication, Listening, Speaking)]({% post_url 2022-12-01-ve-phat-am-nghe-noi %})
 16. [Về Ngôn Ngữ (On Language)]({% post_url 2023-01-01-ve-ngon-ngu %})
+17. [Chia Động Từ (Verb Conjugation)]({% post_url 2023-03-01-chia-dong-tu %})
+18. [Ngôn Ngữ và Toán Học (Language and Mathematics)]({% post_url 2023-05-01-ngon-ngu-va-toan-hoc %})
+19. [Generative Grammar vs AI]({% post_url 2023-10-01-generative-grammar-vs-ai %})

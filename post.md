@@ -1,7 +1,6 @@
 
-17. [Chia Động Từ (Verb Conjugation)]({% post_url ... %})
-18. [Ngôn Ngữ và Toán Học (Language and Mathematics)]({% post_url ... %})
-19. [Generative Grammar vs AI]({% post_url ... %})
+
+
 20. [Impossible Languages]({% post_url ... %})
 21. [Underlying dimensions of semantic change]({% post_url ... %})
 

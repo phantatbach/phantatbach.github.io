@@ -2,11 +2,7 @@
 title: "Về phát âm, nghe nói (On Pronunciation, Listening, Speaking)"
 layout: post
 ---
-<div style="display: flex; justify-content: center; padding: 20px;">
-    <img src="{{ site.baseurl }}/assets/media/posts/" alt="Illustration" style="width: 500px; height: auto;">
-</div>
 ENGLISH TRANSLATION BELOW
-
 
 Theo truyền thống, khi nhắc đến phát âm là nhắc đến Ngữ Âm/ Âm vị học, với các âm thanh và các quy tắc liên quan đến chúng (biển đổi âm, nối âm, lướt âm, vv).
 
