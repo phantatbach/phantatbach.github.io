@@ -10,7 +10,7 @@ These are the links to my linguistic articles (in Vietnamese and translated to E
 
 1. [Phát Âm - Không chỉ là IPA (Pronunciation - More than just the IPA)]({% post_url 2022-05-01-pronunciation-ipa %})
 2. [Trước/Sau vs Qua/Tới (Before/After and Pass/Arrive)]({% post_url 2022-05-01-truocsau-quatoi %})
-3. [Intelligent vs Smart vs Clever]({% post_url ... %})
+<!-- 3. [Intelligent vs Smart vs Clever]({% post_url ... %})
 4. [Tư Duy và Ngôn Ngữ (Reasoning and Language)]({% post_url ... %})
 5. [Lên "đỉnh"]({% post_url ... %})
 6. [To infinitive, Bare infinitive, Gerund]({% post_url ... %})
@@ -63,4 +63,4 @@ These are the links to my linguistic articles (in Vietnamese and translated to E
 29. [Thanh nhạc dưới góc độ khoa học (Phần 2)]({% post_url ... %})
 30. [Bỏ tiếng Anh làm môn thi bắt buộc]({% post_url ... %})
 31. [My PhD application package]({% post_url ... %})
-32. [From Naive to Achieve]({% post_url ... %})
+32. [From Naive to Achieve]({% post_url ... %}) -->
