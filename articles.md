@@ -16,3 +16,8 @@ These are the links to my linguistic articles (in Vietnamese and translated to E
 6. [To infinitive, Bare infinitive, Gerund]({% post_url 2022-05-01-to-infinitive-bare-infinitive-gerund %})
 7. [Terrible vs Terrific]({% post_url 2022-05-01-terrible-va-terrific %})
 8. [Conceptual Metaphor]({% post_url 2022-05-01-conceptual-metaphor %})
+9. [Lên vs Xuống (Up vs Down)]({% post_url 2022-05-01-len-hay-xuong %})
+10. [Cost vs Price]({% post_url 2022-05-01-cost-hay-price %})
+11. [Will vs Going to]({% post_url 2022-05-01-will-va-be-going-to %})
+12. [Từ vựng Đu Trend (lùa gà, úp bô, vv)]({% post_url 2022-06-01-tu-vung-u-trend-lua-ga-up-bo %})
+13. [Tiến Thời gian (Forward the Time)]({% post_url 2022-07-01-tien-thoi-gian %})

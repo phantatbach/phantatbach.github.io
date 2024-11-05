@@ -1,9 +1,5 @@
 
-9. [Lên vs Xuống (Up vs Down)]({% post_url ... %})
-10. [Cost vs Price]({% post_url ... %})
-11. [Will vs Going to]({% post_url ... %})
-12. [Từ vựng Đu Trend (lùa gà, úp bô, vv)]({% post_url ... %})
-13. [Tiến Thời gian (Forward the Time)]({% post_url ... %})
+
 14. [Đại Học và Trường Đại Học]({% post_url ... %})
 15. [Về Phát âm, Nghe, Nói (On Pronunication, Listening, Speaking)]({% post_url ... %})
 16. [Về Ngôn Ngữ (On Language)]({% post_url ... %})
