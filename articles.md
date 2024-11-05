@@ -15,3 +15,4 @@ These are the links to my linguistic articles (in Vietnamese and translated to E
 5. [Lên "đỉnh"]({% post_url 2022-05-01-len-dinh %})
 6. [To infinitive, Bare infinitive, Gerund]({% post_url 2022-05-01-to-infinitive-bare-infinitive-gerund %})
 7. [Terrible vs Terrific]({% post_url 2022-05-01-terrible-va-terrific %})
+8. [Conceptual Metaphor]({% post_url 2022-05-01-conceptual-metaphor.md %})
