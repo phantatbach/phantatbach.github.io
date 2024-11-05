@@ -12,12 +12,11 @@ These are the links to my linguistic articles (in Vietnamese and translated to E
 2. [Trước/Sau vs Qua/Tới (Before/After and Pass/Arrive)]({% post_url 2022-05-01-truocsau-quatoi %})
 3. [Intelligent vs Smart vs Clever]({% post_url 2022-05-01-intelligent-vs-smart-vs-clever %})
 4. [Tư Duy và Ngôn Ngữ (Reasoning and Language)]({% post_url 2022-05-01-tu-duy-va-ngon-ngu %})
-
+5. [Lên "đỉnh"]({% post_url 2022-05-01-len-dinh %})
 
 
 {% raw %}
 
-5. [Lên "đỉnh"]({% post_url ... %})
 6. [To infinitive, Bare infinitive, Gerund]({% post_url ... %})
 7. [Terrible vs Terrific]({% post_url ... %})
 8. [Conceptual Metaphor]({% post_url ... %})
