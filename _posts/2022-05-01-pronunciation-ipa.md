@@ -50,12 +50,12 @@ Các âm thanh đơn lẻ (nguyên/ phụ âm) chỉ là 1 phần của phát â
 
 Đọc xong bài này, hi vọng những ai nghĩ rằng dạy phát âm (một cách chuẩn chỉnh) dễ có thể thay đổi quan điểm.
 
-<img src="assets/media/posts/2022-05-01-pronunciation-ipa-1.png" alt="Illustration" style="width: 300px; height: auto;">
+<img src="assets/media/2022-05-01-pronunciation-ipa-1.png" alt="Illustration" style="width: 300px; height: auto;">
 
-![Illustration](assets/media/posts/2022-05-01-pronunciation-ipa-1.png)
+![Illustration](assets/media/2022-05-01-pronunciation-ipa-1.png)
 
 <div style="display: flex; justify-content: center; padding: 20px;">
-    <img src="assets/media/posts/2022-05-01-pronunciation-ipa-1.png" alt="Illustration" style="width: 300px; height: auto;">
+    <img src="assets/media/2022-05-01-pronunciation-ipa-1.png" alt="Illustration" style="width: 300px; height: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; padding: 20px;">
