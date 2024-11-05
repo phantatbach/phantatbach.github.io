@@ -25,7 +25,7 @@ Vậy lập luận của Zeno đã sai ở chỗ nào?
 Để tìm ra lỗi sai, đầu tiên ta cần “công thức hóa” suy luận.
 
 <div style="display: flex; justify-content: center; padding: 20px;">
-    <img src="{{ site.baseurl }}/assets/media/posts/2022-05-01-nghich-ly-zeno-asin-ngao-da-1" alt="Illustration" style="width: 500px; height: auto;">
+    <img src="{{ site.baseurl }}/assets/media/posts/2022-05-01-nghich-ly-zeno-asin-ngao-da-1.png" alt="Illustration" style="width: 500px; height: auto;">
 </div>
 
 Có thể thấy rằng Zeno đã lừa chúng ta khi thay đổi bản chất bài toán. Thay vì tìm thời điểm mà Asin “vượt qua” Rùa, ông ta chỉ tìm những thời điểm mà Asin “chạy vào vị trí cũ của Rùa” (t1, t2, t3, t4, vv). Chính vì điều này, bài toán sẽ trờ thành vòng lặp vô tận (Asin đến chỗ Rùa thì Rùa đã đi).
@@ -34,7 +34,7 @@ Nói cách khác, mỗi lần Asin đến “vị trí cũ” của Rùa, anh ta
 
 
 <div style="display: flex; justify-content: center; padding: 20px;">
-    <img src="{{ site.baseurl }}/assets/media/posts/2022-05-01-nghich-ly-zeno-asin-ngao-da-2" alt="Illustration" style="width: 500px; height: auto;">
+    <img src="{{ site.baseurl }}/assets/media/posts/2022-05-01-nghich-ly-zeno-asin-ngao-da-2.png" alt="Illustration" style="width: 500px; height: auto;">
 </div>
 
 Chính vì lí do này, thay vì “nghịch lí Zeno”, mình sẽ gọi bài toán là “Asin ng’áo đá”.

@@ -20,11 +20,12 @@ Lưu ý: Dù các bạn có học Ngôn Ngữ Anh hay Ngôn Ngữ Lào, những 
 
 Ở bậc Đại Học, các bạn sẽ làm quen với cấu trúc chung của ngôn ngữ. Các môn học thường bao gồm:
 
-Phonetics and Phonology: Học về âm thanh
-Morphology: Học về từ
-Syntax: Học về câu
-Semantic: Học về ý nghĩa
-Pragmatic: Học về ngữ cảnh
+* Phonetics and Phonology: Học về âm thanh
+* Morphology: Học về từ
+* Syntax: Học về câu
+* Semantic: Học về ý nghĩa
+* Pragmatic: Học về ngữ cảnh
+
 Có thể thấy rằng các môn này giống như những viên gạch, và độ lớn của gạch cũng lớn dần lên (âm –> từ -> câu –> ngữ cảnh).
 
 Những môn này thường được gọi chung là Formal Linguistics. (Gọi là formal vì nó sử dụng các công thức giống như trong Toán học để biểu diễn.). Theo Formal Linguistics, Ngữ Pháp (Grammar) chính là sự giao thoa giữa Phonology - Morphology - Syntax.
@@ -62,11 +63,12 @@ HỌC XONG, LÀM GÌ?
 
 Bài viết trên đây được viết dưới góc nhìn của 1 người nghiên cứu ngôn ngữ. Ngoài ra, có rất nhiều các công việc khác mà các bạn có thể làm, ví dụ như:
 
-Biên, phiên dịch
-Giảng dạy
-Hướng dẫn viên du lịch
-Chuyên viên tư vấn
-Biên tập viên
-Viết lách
-Công nghệ thông tin
+* Biên, phiên dịch
+* Giảng dạy
+* Hướng dẫn viên du lịch
+* Chuyên viên tư vấn
+* Biên tập viên
+* Viết lách
+* Công nghệ thông tin
+
 …

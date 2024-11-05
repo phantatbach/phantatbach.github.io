@@ -1,10 +1,4 @@
 
-
-11. [Ai chung tình được mãi]({% post_url ... %})
-12. [Mục tiêu và quá trình]({% post_url ... %})
-13. [Quá khứ, hiện tại, tương lai]({% post_url ... %})
-14. [Trọc hay không trọc?]({% post_url ... %})
-15. [Induction vs Deduction]({% post_url ... %})
 16. [Không có tao thì...]({% post_url ... %})
 17. [Có nên du học ở Anh]({% post_url ... %})
 18. [Sai thì sửa?]({% post_url ... %})
