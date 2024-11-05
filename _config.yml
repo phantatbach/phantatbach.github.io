@@ -43,3 +43,6 @@ plugins:
 
 include:
   - "_assets"
+
+ignore:
+  - 'post.md'
