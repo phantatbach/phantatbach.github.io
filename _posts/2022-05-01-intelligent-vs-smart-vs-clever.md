@@ -1,5 +1,5 @@
 ---
-title: "Trước/sau và qua/tới"
+title: "Intelligent vs Smart vs Clever"
 layout: post
 ---
 ENGLISH TRANSLATION BELOW
