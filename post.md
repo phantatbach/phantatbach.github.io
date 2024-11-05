@@ -1,5 +1,3 @@
-6. [To infinitive, Bare infinitive, Gerund]({% post_url ... %})
-7. [Terrible vs Terrific]({% post_url ... %})
 8. [Conceptual Metaphor]({% post_url ... %})
 9. [Lên vs Xuống (Up vs Down)]({% post_url ... %})
 10. [Cost vs Price]({% post_url ... %})
