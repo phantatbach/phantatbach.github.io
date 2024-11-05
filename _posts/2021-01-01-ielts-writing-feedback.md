@@ -20,7 +20,7 @@ layout: post
 
 ## 2. Chi phí
 
-- **Overview sessions**: 500,000 VND x 2 bài.
+- **Overview sessions**: 500,000 VND x 2 buổi.
 - **Feedback sessions**: 200,000 VND/bài (tối đa 500 từ, mua tối thiểu 5 bài, dùng trong 1 tháng).
 
 ---
