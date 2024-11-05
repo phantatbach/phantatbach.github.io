@@ -1,6 +1,6 @@
 
 <!-- 
-4. [Tư Duy và Ngôn Ngữ (Reasoning and Language)]({% post_url ... %})
+
 5. [Lên "đỉnh"]({% post_url ... %})
 6. [To infinitive, Bare infinitive, Gerund]({% post_url ... %})
 7. [Terrible vs Terrific]({% post_url ... %})
