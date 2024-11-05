@@ -21,3 +21,6 @@ These are the links to my linguistic articles (in Vietnamese and translated to E
 11. [Will vs Going to]({% post_url 2022-05-01-will-va-be-going-to %})
 12. [Từ vựng Đu Trend (lùa gà, úp bô, vv)]({% post_url 2022-06-01-tu-vung-du-trend-lua-ga-up-bo %})
 13. [Tiến Thời gian (Forward the Time)]({% post_url 2022-07-01-tien-thoi-gian %})
+14. [Đại Học và Trường Đại Học]({% post_url 2022-12-01-dai-hoc-va-truong-dai-hoc %})
+15. [Về Phát âm, Nghe, Nói (On Pronunication, Listening, Speaking)]({% post_url 2022-12-01-ve-phat-am-nghe-noi %})
+16. [Về Ngôn Ngữ (On Language)]({% post_url 2023-01-01-ve-ngon-ngu %})

@@ -1,7 +1,4 @@
 
-14. [Đại Học và Trường Đại Học]({% post_url ... %})
-15. [Về Phát âm, Nghe, Nói (On Pronunication, Listening, Speaking)]({% post_url ... %})
-16. [Về Ngôn Ngữ (On Language)]({% post_url ... %})
 17. [Chia Động Từ (Verb Conjugation)]({% post_url ... %})
 18. [Ngôn Ngữ và Toán Học (Language and Mathematics)]({% post_url ... %})
 19. [Generative Grammar vs AI]({% post_url ... %})
