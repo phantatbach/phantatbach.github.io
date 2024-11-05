@@ -50,20 +50,13 @@ Các âm thanh đơn lẻ (nguyên/ phụ âm) chỉ là 1 phần của phát â
 
 Đọc xong bài này, hi vọng những ai nghĩ rằng dạy phát âm (một cách chuẩn chỉnh) dễ có thể thay đổi quan điểm.
 
+<!-- Without the helper, it will use the relative URL -->
 <div style="display: flex; justify-content: center; padding: 20px;">
-    <img src="{{ site.baseurl }}/assets/media/posts/2022-05-01-pronunciation-ipa-1.png" alt="Illustration" style="width: 300px; height: auto;">
-</div>
-
-<img src="assets/media/2022-05-01-pronunciation-ipa-1.png" alt="Illustration" style="width: 300px; height: auto;">
-
-![Illustration](assets/media/2022-05-01-pronunciation-ipa-1.png)
-
-<div style="display: flex; justify-content: center; padding: 20px;">
-    <img src="assets/media/2022-05-01-pronunciation-ipa-1.png" alt="Illustration" style="width: 300px; height: auto;">
+    <img src="{{ site.baseurl }}/assets/media/posts/2022-05-01-pronunciation-ipa-1.png" alt="Illustration" style="width: 500px; height: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; padding: 20px;">
-    <img src="assets/media/posts/2022-05-01-pronunciation-ipa-2.png" alt="Illustration" style="width: 300px; height: auto;">
+    <img src="{{ site.baseurl }}/assets/media/posts/2022-05-01-pronunciation-ipa-2.png" alt="Illustration" style="width: 500px; height: auto;">
 </div>
 
 ENGLISH TRANSLATION
