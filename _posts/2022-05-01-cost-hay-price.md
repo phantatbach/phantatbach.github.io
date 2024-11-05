@@ -2,9 +2,7 @@
 title: "Cost vs Price"
 layout: post
 ---
-<div style="display: flex; justify-content: center; padding: 20px;">
-    <img src="{{ site.baseurl }}/assets/media/posts/" alt="Illustration" style="width: 500px; height: auto;">
-</div>
+
 ENGLISH TRANSLATION BELOW
 
 The COST of committing crime hay The PRICE of committing crime?
@@ -33,8 +31,6 @@ Cái "giá" phải trả: hình phạt
 Nhắc lại một vụ khác cũng khá hay ho: Trạm thu PHÍ và Trạm thu GIÁ.
 
 Như đã nói ở trên, PHÍ là 1 nguồn lục, thứ có thể chuyển từ A sang B, tức có thể "thu" được. GIÁ chỉ là biểu hiện bằng tiền của giá trị, không thể chuyển từ A sang B, tức không thể "thu" được.
-
-
 
 ENGLISH TRANSLATION
 "The COST of committing crime or The PRICE of committing crime?"

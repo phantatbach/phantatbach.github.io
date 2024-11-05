@@ -2,9 +2,6 @@
 title: "Từ Vựng Đu Trend (Lùa Gà, Úp Bô, vv)"
 layout: post
 ---
-<div style="display: flex; justify-content: center; padding: 20px;">
-    <img src="{{ site.baseurl }}/assets/media/posts/" alt="Illustration" style="width: 500px; height: auto;">
-</div>
 Dưới đây là gợi ý cách dịch tiếng Anh của 1 số từ khoá hot trong thời gian gần đây.
 
 1. Lùa gà:
@@ -33,3 +30,7 @@ Ví dụ: Ms Fan evaded her debt.
 “Nến” ở đây là các hình vẽ xanh đỏ hiển thị giá của một mã chứng khoán/tiền ảo trong một khoảng thời gian cụ thể. “Thổi nến/tỉa nến” là việc có thể đọc, dự đoán chính xác sự thay đổi của thị trường chứng khoán/tiền ảo và đọc lệnh.
 Cụm này có thể dịch đơn giản là stock predicting/ telling (giống như trong cụm fortune-telling).
 Ví dụ: He claimed to be a stock-teller.
+
+<div style="display: flex; justify-content: center; padding: 20px;">
+    <img src="{{ site.baseurl }}/assets/media/posts/2022-06-01-tu-vung-du-trend-lua-ga-up-bo.png" alt="Illustration" style="width: 500px; height: auto;">
+</div>

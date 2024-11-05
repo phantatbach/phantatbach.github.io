@@ -23,6 +23,7 @@ Tuy nhiên, vẫn có thể là do văn hóa cao su của rất nhiều người
 </div>
 
 ENGLISH TRANSLATION
+
 Why do we say lùi (back/postpone) thời gian (time of doing something) but not forward time?
 
 From a historical perspective, tiến and lùi are two unrelated words.
