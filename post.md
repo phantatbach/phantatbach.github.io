@@ -1,7 +1,3 @@
-
-<!-- 
-
-5. [Lên "đỉnh"]({% post_url ... %})
 6. [To infinitive, Bare infinitive, Gerund]({% post_url ... %})
 7. [Terrible vs Terrific]({% post_url ... %})
 8. [Conceptual Metaphor]({% post_url ... %})
@@ -52,4 +48,4 @@
 29. [Thanh nhạc dưới góc độ khoa học (Phần 2)]({% post_url ... %})
 30. [Bỏ tiếng Anh làm môn thi bắt buộc]({% post_url ... %})
 31. [My PhD application package]({% post_url ... %})
-32. [From Naive to Achieve]({% post_url ... %}) -->
+32. [From Naive to Achieve]({% post_url ... %})
