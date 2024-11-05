@@ -31,3 +31,16 @@ These are the links to my linguistic articles (in Vietnamese and translated to E
 21. [Underlying dimensions of semantic change]({% post_url 2024-09-01-underlying-dimension-of-semantic-change %})
 
 # Non-linguistic articles
+
+These are the links to my non-linguistic articles in Vietnamese:
+
+1. ["Thợ" dạy 4.0]({% post_url 2022-05-01-tho-day-40 %})
+2. [Chuyện học - thi và phốt giới Ai Eo]({% post_url 2022-05-01-chuyen-hoc-thi-va-phot-gioi-ai-eo %})
+3. [Ai Eo rồi. What's next?]({% post_url 2022-05-ai-eo-roi-whats-next %})
+4. [Trải nghiệm về việc học ở Anh]({% post_url 2022-05-01-trai-nghiem-ve-viec-hoc-o-anh %})
+5. [Chi phí du học Thạc Sĩ tại Anh]({% post_url 2022-05-01-chi-phi-du-hoc-thac-si-tai-uk %})
+6. [Có nên đi du học Thạc Sĩ?]({% post_url 2022-05-01-co-nen-di-du-hoc-thac-si %})
+7. [NGÔN NGỮ HỌC – HỌC GÌ, LÀM GÌ?]({% post_url 2022-05-01-ngon-ngu-hoc-hoc-gi-lam-gi %})
+8. [Viết học thuật]({% post_url 2022-05-01-viet-hoc-thuat %})
+9. [Nghịch lý Zeno (Asin ngáo đá)]({% post_url 2022-05-01-nghich-ly-zeno-asin-ngao-da %})
+10. [Tại sao anh thích em?]({% post_url 2022-06-01-tai-sao-anh-thich-em %})

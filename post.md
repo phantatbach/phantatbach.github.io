@@ -1,15 +1,5 @@
 
 
-1. ["Thợ" dạy 4.0]({% post_url ... %})
-2. [Chuyện học - thi và phốt giới Ai Eo]({% post_url ... %})
-3. [Ai Eo rồi. What's next?]({% post_url ... %})
-4. [Trải nghiệm về việc học ở Anh]({% post_url ... %})
-5. [Chi phí du học Thạc Sĩ tại Anh]({% post_url ... %})
-6. [Có nên đi du học Thạc Sĩ?]({% post_url ... %})
-7. [NGÔN NGỮ HỌC – HỌC GÌ, LÀM GÌ?]({% post_url ... %})
-8. [Viết học thuật]({% post_url ... %})
-9. [Nghịch lý Zeno (Asin ngáo đá)]({% post_url ... %})
-10. [Tại sao anh thích em?]({% post_url ... %})
 11. [Ai chung tình được mãi]({% post_url ... %})
 12. [Mục tiêu và quá trình]({% post_url ... %})
 13. [Quá khứ, hiện tại, tương lai]({% post_url ... %})
