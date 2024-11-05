@@ -15,7 +15,7 @@ These are the links to my linguistic articles (in Vietnamese and translated to E
 
 
 
-{% comment %}
+{% raw %}
 
 5. [Lên "đỉnh"]({% post_url ... %})
 6. [To infinitive, Bare infinitive, Gerund]({% post_url ... %})
@@ -69,4 +69,5 @@ These are the links to my linguistic articles (in Vietnamese and translated to E
 30. [Bỏ tiếng Anh làm môn thi bắt buộc]({% post_url ... %})
 31. [My PhD application package]({% post_url ... %})
 32. [From Naive to Achieve]({% post_url ... %})
-{% endcomment %}
+
+{% endraw %}
