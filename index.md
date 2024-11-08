@@ -5,6 +5,7 @@ permalink: /
 ---
 
 # About me 
+
 Hi, I'm Bách, a Linguist/Cognitive Scientist from Vietnam.
 <!-- This doesn't need the helper for picture embedding-->
 <img src="assets/media/index/Mugshot.jpg" alt="Mugshot" style="float: right; margin-left: 20px; width: 150px; height: auto;">
