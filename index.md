@@ -36,6 +36,6 @@ My other interests are Martial Arts and (Classical) Singing (I am a Full Lyric T
 - [LinkedIn](https://linkedin.com/in/phantatbach)
 - [ORCID](https://orcid.org/0000-0002-8216-4978)
 - [X](https://x.com/phantatbach)
-- [YouTube (for singing only)](https://youtube.com/@phantatbach)
+- [YouTube (for singing only)](https://youtube.com/@bachphantat)
 
 
