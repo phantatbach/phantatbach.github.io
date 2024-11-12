@@ -12,9 +12,11 @@ Hi, I'm Bách, a Linguist/Cognitive Scientist from Vietnam.
 
 I am a PhD student @[QLVL Research Group](https://www.arts.kuleuven.be/ling/qlvl) @[KU Leuven](https://www.kuleuven.be/kuleuven), working as part of the [Marie Skłodowska-Curie Actions Doctoral Network](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks) [CASCADE](https://www.horizoncascade.net/). My topic is [Underlying dimensions in conceptual change](https://www.horizoncascade.net/phd4/), in which I would apply [distributional semantics](https://en.wikipedia.org/wiki/Distributional_semantics#:~:text=Distributional%20semantics%20is%20a%20research,large%20samples%20of%20language%20data.) to reveal shifts in conceptual associations of different concepts through time.
 
-I developed an interest in Linguistics in the third year of my Finance undergrad. I then obtained an MSc in Linguistics from the [University of Stirling](https://www.stir.ac.uk/) and I am currently expanding my understanding of the field of Cognition (e.g.,Philosophy, (Cognitive) Psychology, (Cognitive/Computational) Neuroscience, Artificial Intelligence). My linguistics research interests are Semantics, Language Change and Variation, Construction Grammar. I am familiar with Quantitative/Statistical methods, Python and R Programming, and several Machine/Deep Learning models. Besides learning and researching about languages, I'm also experienced in teaching languages (English, Vietnamese) to different types of learners. 
+I developed an interest in Linguistics in the third year of my Finance undergrad. I then obtained an MSc in Linguistics from the [University of Stirling](https://www.stir.ac.uk/). I am currently expanding my understanding of the field of Cognition (Philosophy, (Cognitive) Psychology, (Cognitive/Computational) Neuroscience, Artificial Intelligence). 
 
-My other interests are Martial Arts and (Classical) Singing (I am a Full Lyric Tenor).
+I am familiar with Quantitative/Statistical methods, Python and R Programming, and several Machine/Deep Learning models. Besides learning and researching about languages, I'm also experienced in teaching languages (English, Vietnamese) to different types of learners. 
+
+My research interests are Semantics, Language Change and Variation, Construction Grammar. I am also interested in linguistic representation in (large) language models. My other interests are Martial Arts and (Classical) Singing (I am a Full Lyric Tenor).
 
 ---
 
