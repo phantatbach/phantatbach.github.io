@@ -57,7 +57,7 @@ Kế hoạch ra báo, Tây tiến, kiếm Fubar lại phải lùi tiếp rồi.
 
 - Đỗ học bổng Tiến Sĩ danh giá nhất của EU (MSCA), được học tại ngôi trường to nhất của Bỉ (KU Leuven) về đúng mảng mà mình thích.
 - Mở quãng giọng lên 3 quãng 8 (C2 - C#5), chính thức trở thành Tenor, có thể hát được (hầu hết) các bài mình thích (dù đa số nghe chả ra cm gì).
-- Có được 1 workshop paper (co-author) đầu tiên tại một trong những hội nghị to nhất về Machine Learning (NeurIPS'24).
+- Là co-author của 1 workshop paper tại một trong những hội nghị to nhất về Machine Learning (NeurIPS'24).
 - Học được khá nhiều thứ khác.
 
 
