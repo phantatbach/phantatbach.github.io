@@ -53,11 +53,11 @@ Kế hoạch ra báo, Tây tiến, kiếm Fubar lại phải lùi tiếp rồi.
 
 # 2024
 
-2024 là một năm tương đối bùng nổ tiếp tuy có nhiều thăng trầm
+2024 là một năm tương đối bùng nổ tiếp, tuy có nhiều thăng trầm
 
-- Đỗ học bổng Tiến Sĩ của EU (MSCA), được học tại KU Leuven, ngôi trường top 1 của Bỉ về đúng mảng mà mình thích
-- Có được 1 workshop paper (co-author) đầu tiên tại NeurIPS'24
-- Mở quãng giọng lên 3 quãng 8, từ C2 - C#5, chính thức trở thành Tenor.
-- Học được khá nhiều thứ khác
+- Đỗ học bổng Tiến Sĩ danh giá nhất của EU (MSCA), được học tại ngôi trường to nhất của Bỉ (KU Leuven) về đúng mảng mà mình thích.
+- Mở quãng giọng lên 3 quãng 8 (C2 - C#5), chính thức trở thành Tenor, có thể hát được (hầu hết) các bài mình thích (dù đa số nghe chả ra cm gì).
+- Có được 1 workshop paper (co-author) đầu tiên tại một trong những hội nghị to nhất về Machine Learning (NeurIPS'24).
+- Học được khá nhiều thứ khác.
 
 
