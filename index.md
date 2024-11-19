@@ -8,7 +8,7 @@ permalink: /
 
 Hi, I'm Bách, a Linguist/Cognitive Scientist from Vietnam.
 <!-- This doesn't need the helper for picture embedding-->
-<img src="assets/media/index/Mugshot.jpg" alt="Mugshot" style="float: right; margin-left: 20px; width: 150px; height: auto;">
+<img src="assets/media/index/Mugshot2.jpg" alt="Mugshot" style="float: right; margin-left: 20px; width: 150px; height: auto;">
 
 I am a PhD student @[QLVL Research Group](https://www.arts.kuleuven.be/ling/qlvl) @[KU Leuven](https://www.kuleuven.be/kuleuven), working as part of the Marie Skłodowska-Curie Actions Doctoral Network [CASCADE](https://www.horizoncascade.net/). My topic is [Underlying dimensions in conceptual change](https://www.horizoncascade.net/phd4/), in which I would apply [distributional semantics](https://en.wikipedia.org/wiki/Distributional_semantics#:~:text=Distributional%20semantics%20is%20a%20research,large%20samples%20of%20language%20data.) to reveal shifts in conceptual associations of different concepts through time.
 
