@@ -12,7 +12,7 @@ Hi, I'm Bách, a Linguist/Cognitive Scientist from Vietnam.
 
 I am a PhD student @[QLVL Research Group](https://www.arts.kuleuven.be/ling/qlvl) @[KU Leuven](https://www.kuleuven.be/kuleuven), working as part of the Marie Skłodowska-Curie Actions Doctoral Network [CASCADE](https://www.horizoncascade.net/). My topic is [Underlying dimensions in conceptual change](https://www.horizoncascade.net/phd4/), in which I would apply [distributional semantics](https://en.wikipedia.org/wiki/Distributional_semantics#:~:text=Distributional%20semantics%20is%20a%20research,large%20samples%20of%20language%20data.) to reveal and explain shifts in conceptual associations of different concepts through time.
 
-I developed an interest in Linguistics in the third year of my Finance undergrad. I then obtained an MSc in Linguistics from the [University of Stirling](https://www.stir.ac.uk/) and also became the first student in the history of the Department of Linguistics to be awarded the Research Based Learning Prize for the Best Master Dissertation in Literature and Languages.
+I developed an interest in Linguistics in the third year of my Finance undergrad. I then obtained an MSc in Linguistics from the [University of Stirling](https://www.stir.ac.uk/) and also became the first student in the history of the department of Linguistics to be awarded the Research Based Learning Prize for the Best Master Dissertation in Literature and Languages.
 
 After Stirling, I spent some time working as an NLP Engineer and also expanding my understanding of the field of Cognitive Science (Philosophy, (Cognitive) Psychology, (Cognitive/Computational) Neuroscience, Artificial Intelligence) before coming to Leuven. 
 
