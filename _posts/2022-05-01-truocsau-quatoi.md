@@ -11,7 +11,9 @@ Trong tiếng Việt, quá khứ thì gọi là “trước” và “qua” (�
 Đầu tiên, chúng ta cần làm rõ 2 khái niệm:
 
 Điểm nhìn: Người nói (mặc định và không thay đổi)
+
 Mốc: Điểm tham chiếu. Đây là thứ thay đổi đối với 2 cách nói trên
+
 Mốc sẽ là thời gian tham chiếu khi sử dụng “trước/sau” nhưng sẽ chính là chính là người nói khi sử dụng “qua/tới”. 
 
 Đó là lí do tại sao chúng ta có thể dùng “trước/sau” cho tất các các mốc ở quá khứ, hiện tại, tương lai.
@@ -23,11 +25,13 @@ Quá khứ:
 Mốc: 1/1/2000. 
 “Trước” đó: 31/12/1999. 
 “Sau” đó: 2/1/2000
+
 Hiện tại:
 
 Mốc: 26/4/2022
 “Trước”: 25/4/2022
 “Sau”: 27/04/2022
+
 Tương lai:
 
 Mốc: 1/1/2030

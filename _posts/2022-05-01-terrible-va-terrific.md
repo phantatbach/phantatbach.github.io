@@ -31,6 +31,7 @@ Kinh nhỉ.
 Lưu ý: Vì Tiếng Việt thuộc hệ ngôn ngữ khác và đã trải qua sự thay đổi rất lớn (chữ Quốc Ngữ) nên ví dụ trên chỉ là phỏng đoán.
 
 Tại sao chúng lại tách ra làm 2 từ?
+
 Việc tách làm 2 từ với 2 nét nghĩa tách biệt sẽ tránh những trường hợp hiểu sai.
 
 <div style="display: flex; justify-content: center; padding: 20px;">
@@ -46,10 +47,13 @@ Both words share the same Latin root, "terrēre" (to cause fear). In the process
 
 The question is:
 1. Why did these two meanings appear? Are they related to each other?
+
 You feel fear and terror when you have an experience that is beyond your endurance.
+
 You feel "the peak of awe" when you have an experience that exceeds normal expectations.
 
 It can be seen that the two meanings above have a fairly close relationship (an experience with a strong impression that exceeds the normal threshold).
 
-Why were they separated into two words with distinct meanings?
+2. Why were they separated into two words with distinct meanings?
+
 Separating them into two words with separate meanings helps to avoid confusion.
