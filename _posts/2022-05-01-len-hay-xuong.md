@@ -19,8 +19,6 @@ Một cách lí giải cho cách sử dụng này là cấu trúc xã hội. Nh�
 "Xuống đường/phố" có lẽ là đang tả thực, vì nhà thường cao hơn mặt đường hoặc nhà có nhiều tầng (cao hơn đường). 
 
 
-
-
 ENGLISH TRANSLATION
 In English, when we want to talk about moving from A to B, we usually use the preposition "to". However, in Vietnamese, we use many different prepositions:
 
