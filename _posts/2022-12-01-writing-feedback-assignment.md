@@ -23,8 +23,6 @@ layout: post
 
 ## 3. Bài chữa mẫu
 
-*(Thêm liên kết đến các bài chữa mẫu nếu có)*
-
 ---
 
 ## 4. Hướng dẫn quy trình
@@ -35,7 +33,7 @@ Sau khi đăng ký, bạn sẽ gửi bài viết cho mình qua email, và mình 
 
 ## 5. Lưu ý
 
-Vì các bài assignment mang tính chuyên môn cao và có thể mình không nằm trong ngành của bạn, nên các nhận xét chỉ mang tính tham khảo.
+Nếu các bài assignment mang tính chuyên môn cao và nằm ngoài tầm hiểu biết về mặt kiến thức chuyên môn của mình (vì có thể mình không làm trong ngành của bạn), các nhận xét sẽ mang tính tham khảo và định hướng nhiều hơn. 
 
 ---
 
