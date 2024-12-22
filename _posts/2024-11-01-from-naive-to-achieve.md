@@ -21,7 +21,7 @@ Vì không có mentor cầm tay chỉ việc nên phần lớn thời gian mình
 - Nắm thật chắc Toán và Lập trình.
 - Cố gắng code lại các mô hình nếu có thể.
 
-Quá trình này ngốn của mình khoảng 6 – 7 tháng. Không khuyến khích các bạn làm theo nếu không chịu được cảnh ngồi cày liên tục 8 – 10 tiếng/ ngày). Bình thường thì thư thư tầm 1 – 1.5 năm là vừa.
+Quá trình này ngốn của mình khoảng 6 – 7 tháng. Không khuyến khích các bạn làm theo nếu không chịu được cảnh ngồi cày liên tục 8 – 10 tiếng/ ngày. Bình thường thì thư thư tầm 1 – 1.5 năm là vừa.
 
 Nếu có thể học chính quy thì các bạn nên theo vì có tín chỉ và bằng cấp đàng hoàng. Mình từng xin đi học Thạc Sĩ về IT ở vài trường ở Việt Nam (chấp nhận học bổ sung) nhưng đều bị từ chối nên thôi đi làm Tiến Sĩ luôn cho nhẹ đầu.
 
