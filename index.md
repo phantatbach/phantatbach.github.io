@@ -14,9 +14,9 @@ I am a PhD student @[QLVL Research Group](https://www.arts.kuleuven.be/ling/qlvl
 
 I developed an interest in Linguistics in the third year of my Finance undergrad. I then obtained an MSc in Linguistics from the [University of Stirling](https://www.stir.ac.uk/) and also became the first student in the history of the department of Linguistics to be awarded the Research Based Learning Prize for the Best Master Dissertation in Literature and Languages.
 
-After Stirling, I spent some time working as an NLP Engineer and also expanding my understanding of the field of Cognitive Science (Philosophy, (Cognitive) Psychology, (Cognitive/Computational) Neuroscience, Artificial Intelligence) before coming to Leuven. 
+After Stirling, I spent some time working as an NLP Engineer and expanding my understanding of the field of Cognitive Science (Philosophy, (Cognitive) Psychology, (Cognitive/Computational) Neuroscience, Artificial Intelligence) before coming to Leuven. 
 
-I am familiar with Quantitative/Statistical methods, Python and R Programming, and several Machine/Deep Learning models. Besides learning and researching about languages, I'm also experienced in teaching languages (English, Vietnamese) to different types of learners. 
+I am familiar with Quantitative/Statistical methods, Python and R Programming, and several Machine/Deep Learning models. I have also worked in difference domains of NLP (Large Language Models, Speech-to-Text, Text-to-Speech). Besides learning and researching about languages, I'm also experienced in teaching languages (English, Vietnamese) to different types of learners. 
 
 My research interests are Semantics, Language Change and Variation. I am also interested in linguistic representation in (large) language models. My other, non-academic interests are Martial Arts and (Classical) Singing (I am a Full Lyric Tenor).
 
