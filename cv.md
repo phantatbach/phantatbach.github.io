@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Bach Phan-Tat's CV
 
-This general CV contains (almost) everything about me, which means it is not tailored for any specific role.
+This general CV contains (almost) everything about me, which means it is not tailored for any specific role. If you believe I’m a good fit for a position (teaching, researching), feel free to DM me, and I’ll provide a more tailored, up-to-date CV.
 
 <div style="display: flex; justify-content: center; padding: 20px;">
     <div style="max-width: 800px; width: 100%;">
