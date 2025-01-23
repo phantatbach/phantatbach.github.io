@@ -50,7 +50,7 @@ Understanding both high-level and low-level perspectives allows you to see the o
 
 I once reviewed a research outline for someone who listed around 10 statistical tests but couldn’t explain why they were using them (high-level understanding). When I asked for deeper insights about individual formulas (low-level understanding), they struggled even more.
 
-During my master's thesis, I wrestled with the desire to make my thesis intricate and complex. However, my research methods ended up being very simple. I scored 80 points and became the first student in my department’s history to win the "Outstanding Thesis Award," likely because I had "mastered" the knowledge at both high and low levels. This meant I knew what to use, when, and how, instead of overcomplicating the work with unnecessary techniques.
+During my master's thesis, I wrestled with the desire to make my thesis intricate and complex. However, my research methods ended up being very simple. I scored 80 points and became the first student in my department’s history to win the "Best Master Thesis Award," likely because I had "mastered" the knowledge at both high and low levels. This meant I knew what to use, when, and how, instead of overcomplicating the work with unnecessary techniques.
 
 ### **A Personal Reflection**
 As someone who once felt "clueless," I later had to (self-)learn a great deal to transition into data science. Understanding high- and low-level knowledge has helped me determine when to skim quickly and when to delve deeply into a subject. It’s a guiding principle for both efficient learning and practical application.
