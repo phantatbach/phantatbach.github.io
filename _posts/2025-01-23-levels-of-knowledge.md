@@ -50,7 +50,7 @@ Here, you’ll encounter formulas like if \( f(x) = 2x \) then \( f'(x) = 2 \).
 ### **The Importance of Balancing High and Low Levels**
 Understanding both high-level and low-level perspectives allows you to see the overall role of a concept within a bigger picture and understand how formulas are derived. 
 
-I once reviewed a research outline for someone who listed around 10 statistical tests but couldn’t explain why they were using them (high-level understanding). When I asked for deeper insights about individual formulas (low-level understanding), they struggled even more.
+I once reviewed a research proposal for someone who listed around 10 statistical tests but couldn’t explain why he was using them (high-level understanding). If I had asked for deeper insights about individual formulas (low-level understanding), he would have struggled even more.
 
 During my master's thesis, I wrestled with the desire to make my thesis intricate and complex. However, my research methods ended up being very simple. I scored 80 points and became the first student in my department’s history to win the "Best Master Thesis Award," likely because I had "mastered" the knowledge at both high and low levels. This meant I knew what to use, when, and how, instead of overcomplicating the work with unnecessary techniques.
 
