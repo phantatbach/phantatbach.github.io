@@ -6,12 +6,14 @@ layout: post
 
 Ta có thể nhìn kiến thức dưới 2 góc độ: High-level và Low-level.
 
+### **High-level Knowledge**
 High-level tức ta nhìn  vào bức tranh lớn hơn, bỏ qua các chi tiết rườm rà.
 
 Ví dụ: Differential Calculus mô tả sự thay đổi của f(x) khi ta thay đổi biến x. Ví dụ: Nếu x thay đổi 1 (hoặc 2, 3, 4) đơn vị thì f(x) sẽ thay đổi như thế nào? Và khi sự thay đổi của x là rất rất nhỏ (gần như bằng 0) thì f(x) sẽ thay đổi như thế nào?
 
 Low-level  tức ta sẽ cần zoom in hay nhìn vào các chi tiết của phần kiến thức đó. Lúc này ta sẽ gặp các công thức phức tạp hơn.
 
+### **Low-level Knowledge**
 Ví dụ: Đây sẽ là các công thức như nếu f(x) = 2x thì f’(x) = 2
 
 Việc hiểu được cả high-level và low-level sẽ giúp các bạn biết được phần kiến thức đó có vai trò gì trong một bức tranh tổng thể và công thức được hình thành như thế nào.
