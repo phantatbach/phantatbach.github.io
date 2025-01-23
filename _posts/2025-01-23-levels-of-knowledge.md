@@ -45,7 +45,7 @@ Differential calculus describes the changes in \( f(x) \) when we change the var
 This means zooming in to focus on the details of a specific piece of knowledge. At this level, you deal with more complex formulas. 
 
 For example:
-Here, you’ll encounter formulas like \( f(x) = 2x \), where \( f'(x) = 2 \).
+Here, you’ll encounter formulas like if \( f(x) = 2x \) then \( f'(x) = 2 \).
 
 ### **The Importance of Balancing High and Low Levels**
 Understanding both high-level and low-level perspectives allows you to see the overall role of a concept within a bigger picture and understand how formulas are derived. 
