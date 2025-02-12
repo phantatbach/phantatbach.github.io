@@ -35,7 +35,7 @@ P(Disease | Positive) = P(Positive | Disease) * P(Disease) / P(Positive) = 0.99 
 
 "Oh, so the probability of having the disease is only 50%. I should probably get another checkup to be sure," you breathe a sigh of relief.
 
-But then, you remember one thing. You're a guy, so how the heck could you have a vagina and get vaginal cancer? "That son of a bitch who sent the wrong results?"
+But then, you remember one thing. You're a guy, so how the heck could you have a vagina and get vaginal cancer? "That son of a bitch who sent me the wrong results?"
 
 The next day, you receive an apology email from the hospital along with the correct results. This time, you're now diagnosed with penile cancer.
 
