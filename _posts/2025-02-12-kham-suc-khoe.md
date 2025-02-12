@@ -37,6 +37,6 @@ P(Disease | Positive) = P(Positive | Disease) * P(Disease) / P(Positive) = 0.99 
 
 But then, you remember one thing. You're a guy, so how the heck could you have a vagina and get vaginal cancer? "That son of a bitch who sent me the wrong results?"
 
-The next day, you receive an apology email from the hospital along with the correct results. This time, you're now diagnosed with penile cancer.
+The next day, you receive an apology email from the hospital along with the correct results. You're now diagnosed with penile cancer.
 
 "Oh crap!"
