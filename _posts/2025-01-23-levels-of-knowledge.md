@@ -26,33 +26,3 @@ Từng là 1 người rất ‘vô học’, sau này mình đã phải (tự) h
 <div style="display: flex; justify-content: center; padding: 20px;">
     <img src="{{ site.baseurl }}/assets/media/posts/2025-01-23-levels-of-knowledge.jpg" alt="Illustration" style="width: 500px; height: auto;">
 </div>
-
-ENGLISH TRANSLATION
-
-Have you ever felt overwhelmed by math formulas? Or have you ever had no idea how to apply it in real life?
-
-We can look at knowledge from two perspectives: **High-level** and **Low-level**.
-
-### **High-level Knowledge**
-This refers to seeing the bigger picture and ignoring intricate details. 
-
-For example:
-Differential calculus describes the changes in \( f(x) \) when we change the variable \( x \).  
-- If \( x \) changes by 1 (or 2, 3, 4) units, how does \( f(x) \) change?  
-- And when the change in \( x \) is infinitesimally small (almost 0), how does \( f(x) \) behave?
-
-### **Low-level Knowledge**
-This means zooming in to focus on the details of a specific piece of knowledge. At this level, you deal with more complex formulas. 
-
-For example:
-Here, you’ll encounter formulas like if \( f(x) = 2x \) then \( f'(x) = 2 \).
-
-### **The Importance of Balancing High and Low Levels**
-Understanding both high-level and low-level perspectives allows you to see the overall role of a concept within a bigger picture and understand how formulas are derived. 
-
-I once reviewed a research proposal for someone who listed around 10 statistical tests but couldn’t explain why he was using them (high-level understanding). If I had asked for deeper insights about individual formulas (low-level understanding), he would have struggled even more.
-
-During my master's thesis, I wrestled with the desire to make my thesis intricate and complex. However, my research methods ended up being very simple. I scored 80 points and became the first student in my department’s history to win the "Best Master Thesis Award," likely because I had "mastered" the knowledge at both high and low levels. This meant I knew what to use, when, and how, instead of overcomplicating the work with unnecessary techniques.
-
-### **A Personal Reflection**
-As someone who once felt "clueless," I later had to (self-)learn a great deal to transition into data science. Understanding high- and low-level knowledge has helped me determine when to skim quickly and when to delve deeply into a subject. It’s a guiding principle for both efficient learning and practical application.
