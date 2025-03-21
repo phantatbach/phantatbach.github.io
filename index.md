@@ -16,7 +16,7 @@ I developed an interest in Linguistics in the third year of my Finance undergrad
 
 After Stirling, I spent some time working as an NLP Engineer and expanding my understanding of the field of Cognitive Science (Philosophy, (Cognitive) Psychology, (Cognitive/Computational) Neuroscience, Artificial Intelligence) before coming to Leuven. 
 
-I am familiar with Quantitative/Statistical methods, Python and R Programming, and several Machine/Deep Learning models. I have also worked in difference domains of NLP (Large Language Models, Speech-to-Text, Text-to-Speech). Besides learning and researching about languages, I'm also experienced in teaching languages (English, Vietnamese) to different types of learners. 
+I am familiar with Quantitative/Statistical methods, Python and R Programming, and several Machine/Deep Learning models. I have also worked in different domains of NLP (Large Language Models, Speech-to-Text, Text-to-Speech). Besides learning and researching about languages, I'm also experienced in teaching languages (English, Vietnamese) to different types of learners. 
 
 My research interests are Semantics, Language Change and Variation. I am also interested in linguistic representation in (large) language models. My other, non-academic interests are Martial Arts and (Classical) Singing (I am a Full Lyric Tenor).
 
