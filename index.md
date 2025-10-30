@@ -22,7 +22,7 @@ Besides learning and researching about languages, I’m also experienced in tran
 
 My research interests are:
 - Semantics
-- Language Change and Variation
+- Language Variation and Change
 - xAI
 - Large Language Models
 - Data Science
