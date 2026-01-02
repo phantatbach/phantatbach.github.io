@@ -10,7 +10,3 @@ permalink: /classes/
    - [Writing Feedback (IELTS)]({% post_url 2021-01-01-ielts-writing-feedback %})
    - [Speaking Feedback (IELTS)]({% post_url 2021-01-01-ielts-speaking-feedback %})
    - [Writing Feedback (Assignment)]({% post_url 2022-12-01-writing-feedback-assignment %})
-
-2. Chính sách cho học viên (bao gồm cách thức đăng kí):
-
-   - [Policy]({% post_url 2021-01-01-class-policy %})
