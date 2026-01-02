@@ -41,12 +41,10 @@ My other, non-academic interests are Martial Arts and (Classical) Singing (I am 
 
 # Contact me (I recommend NOT using Facebook or any other Meta's platform due to the stupidity of their AI and the lack of freedom of speech. Email, X, Bluesky, LinkedIn are preferred)
 
-- [Email](mailto:phantatbach@gmail.com)
+- Email: phantatbach AT gmail.com
 - [X](https://x.com/phantatbach)
 - [LinkedIn](https://linkedin.com/in/phantatbach)
 - [Bluesky](https://bsky.app/profile/phantatbach.bsky.social)
 - [ORCID](https://orcid.org/0000-0002-8216-4978)
 - [Github](https://github.com/phantatbach)
 - [Google Scholar](https://scholar.google.com/citations?user=wqWxx7wAAAAJ&hl=en)
-- [Facebook](https://facebook.com/phantatbach)
-- [YouTube (for singing only)](https://youtube.com/@bachphantat)
