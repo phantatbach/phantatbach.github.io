@@ -20,7 +20,7 @@ Failures are often unseen, while successes are noticeable. Because of this, many
 
 This CV of Failures is an attempt to balance the record and provide a different perspective. The idea is not originally mine as other academics have also shared their CVs of failures before (Google 'CV of failures' and you might find plenty).
 
-Please note that this CV might not include everything as it is written from what I can remember so far. So, if it's shorter than yours, it's probably because you have a better memory or are better at trying new things than I am.
+Please note that this CV might not include everything as it is written from what I can remember so far. So, if it's shorter than yours, it's probably because you have a better memory or are better at trying new things than I am
 
 <iframe 
   src="{{ '/assets/files/CV_Fail.pdf' | relative_url }}"
