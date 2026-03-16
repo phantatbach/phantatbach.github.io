@@ -6,26 +6,23 @@ permalink: /
 
 # About me 
 
-Hi, I'm Bách.
 <!-- This doesn't need the helper for picture embedding-->
 <img src="assets/media/index/Mugshot2.jpg" alt="Mugshot" style="float: right; margin-left: 20px; width: 150px; height: auto;">
 
-I am a PhD student @[QLVL Research Group](https://www.arts.kuleuven.be/ling/qlvl) @[KU Leuven](https://www.kuleuven.be/kuleuven), working as part of the Marie Skłodowska-Curie Actions Doctoral Network [CASCADE](https://www.horizoncascade.net/). My topic is [Underlying dimensions in conceptual change](https://www.horizoncascade.net/phd4/), in which I would apply quantitative methods to reveal and explain shifts in conceptual associations of different concepts through time.
+I am a PhD researcher at the QLVL Research Group, KU Leuven, and part of the Marie Skłodowska-Curie Actions Doctoral Network CASCADE. My research focuses on the underlying dimensions of conceptual change, combining quantitative and computational methods to detect, interpret, and explain shifts in conceptual associations over time.
 
-I developed an interest in Linguistics in the third year of my Finance undergrad. I then obtained an MSc in Linguistics from the [University of Stirling](https://www.stir.ac.uk/) and also became the first student in the history of the department of Linguistics to be awarded the Research Based Learning Prize for the Best Master Dissertation in Literature and Languages.
+Before joining KU Leuven, I completed an MSc in Linguistics at the University of Stirling, where I received the Research Based Learning Prize for the best Master’s dissertation in Literature and Languages. My work sits at the intersection of linguistics, cognitive science, and natural language processing, with particular interests in semantic change, distributional semantics, interpretability, and concept modelling.
 
-I have published (as sole author and co-author) in several (top) conferences, where my works focused on analysing and utilising linguistic data. I am also expanding my understanding of the field of Cognitive Science (Philosophy, Psychology, Neuroscience, Artificial Intelligence).
+I have published and presented work, both as sole author and co-author, at venues including EACL, ACL, EMNLP, NeurIPS, and Evolang. Alongside my academic research, I have worked on applied NLP problems including large language models, speech recognition, and text-to-speech, and I have experience with statistical modelling, machine learning, and Python/R-based research workflows.
 
-I have practical experience working as an NLP engineer in different topics such as Large Language Models, Speech-to-Text, Text-to-Speech. I am familiar with quantitative/statistical methods, machine/deep learning, and Python/R programming. 
-
-Besides learning and researching about languages, I’m also experienced in translating, interpreting, and teaching languages (English, Vietnamese) to different types of learners.
+I also have experience in translation, interpreting, and language teaching in English and Vietnamese.
 
 My research interests are:
 - Semantics
 - Language Variation and Change
-- xAI
 - Large Language Models
 - Data Science
+- xAI
 
 My other, non-academic interests are Martial Arts and (Classical) Singing (I am a Full Lyric Tenor).
 
