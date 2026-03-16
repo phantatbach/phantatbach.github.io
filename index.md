@@ -36,7 +36,7 @@ My other, non-academic interests are Martial Arts and (Classical) Singing (I am 
 
 ---
 
-# Contact me (I recommend NOT using Facebook or any other Meta's platform due to the stupidity of their AI and the lack of freedom of speech. Email, X, Bluesky, LinkedIn are preferred)
+# Contact me
 
 - Email: phantatbach AT gmail.com
 - [X](https://x.com/phantatbach)
