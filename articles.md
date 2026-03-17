@@ -68,3 +68,4 @@ These are the links to my non-linguistic articles in Vietnamese:
 32. [From Naive to Achieve]({% post_url 2024-11-01-from-naive-to-achieve %})
 33. [Levels of Knowledge]({% post_url 2025-01-23-levels-of-knowledge %})
 34. [Chuyện Khám Sức Khỏe]({% post_url 2025-02-12-kham-suc-khoe %})
+35. [Quản lí tài chính]({% post_url 2026-03-17-quan-li-tai-chinh %})
