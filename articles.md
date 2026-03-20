@@ -70,3 +70,4 @@ These are the links to my non-linguistic articles in Vietnamese:
 34. [Chuyện Khám Sức Khỏe]({% post_url 2025-02-12-kham-suc-khoe %})
 35. [Quản lí tài chính]({% post_url 2026-03-17-quan-li-tai-chinh %})
 36. [Quản lí thời gian]({% post_url 2026-03-19-quan-li-thoi-gian %})
+37. [Quản lí dự án]({% post_url 2026-03-20-quan-li-du-an %})
