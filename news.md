@@ -28,16 +28,10 @@ permalink: /news/
 
 ### March 2026
 
-- Two of my abstracts were accepted for presentation at **ICAME 47** in Koblenz:
-  - **“SynFlow: Continuous Semantic Change Analysis via Dependency Co-occurrences”**
-  - **“Conceptual Change during the Chemical Revolution: Air, Acid, and Water in the Royal Society Corpus”**  
-  [Conference](https://icame.info/icame-47-may-2026/)
-
 - My abstract **“Lexical Semantic Change Detection? A Good Parser Might Be Enough!”** was accepted for presentation at the **1st LOT Conference**.  
   [Conference](https://lotschool.nl/registration-now-open-1st-lot-conference-8-may-2026-utrecht/)
 
-- Our book chapter **“Discursive Parallels of the Chemical Revolution: Topic Modelling and Distributional Analysis”** was accepted for publication in *Understanding Science with Large Language Models? Potentials for the History, Philosophy, and Sociology of Science*.  
-  [Chapter](https://doi.org/10.14361/9783839447529-271)
+- I was invited to give a talk on **“Underlying Dimensions of Semantic Change”** at the **Leuven.AI NLP & Text Mining Seminar**.
 
 ### February 2026
 
@@ -49,7 +43,13 @@ permalink: /news/
 - Our paper **“Transparent Semantic Change Detection with Dependency-Based Profiles”** was accepted at **LChange’26**, co-located with EACL 2026.  
   [ACL Anthology](https://aclanthology.org/2026.lchange-1.8/)
 
-- I was invited to give a talk on **“Underlying Dimensions of Semantic Change”** at the **Leuven.AI NLP & Text Mining Seminar**.
+- Our book chapter **“Discursive Parallels of the Chemical Revolution: Topic Modelling and Distributional Analysis”** was accepted for publication in *Understanding Science with Large Language Models? Potentials for the History, Philosophy, and Sociology of Science*.  
+  [Chapter](https://doi.org/10.14361/9783839447529-271)
+
+- Two of my abstracts were accepted for presentation at **ICAME 47** in Koblenz:
+  - **“SynFlow: Continuous Semantic Change Analysis via Dependency Co-occurrences”**
+  - **“Conceptual Change during the Chemical Revolution: Air, Acid, and Water in the Royal Society Corpus”**  
+  [Conference](https://icame.info/icame-47-may-2026/)
 
 ---
 
@@ -91,12 +91,28 @@ permalink: /news/
 
 ### May 2024
 
-- I got admitted into the PhD Programme at KU Leuven, as part of the MSCA Doctoral Network CASCADE.
+- I got admitted into the PhD Programme at KU Leuven, as part of the MSCA Doctoral Network [CASCADE](https://www.horizoncascade.net/).
 
+---
+
+## 2024
+
+### Jan 2024
+
+- I am promoted to Junior Research Engineer at [Vbee](https://vbee.vn/en).
+
+---
+
+## 2023
+
+### Jan 2023
+
+- I am joining [Vbee](https://vbee.vn/en) as a Reseach Intern.
+  
 ---
 
 ## 2022
 
 ### Oct 2022
 
-- I finally graduated from Stirling University, ranking 1st in all modules and the dissertation. I am also the first person in the history of the Linguistics Department to be receiving the 'Research-Based Learning Prize for the best Master’s dissertation in Literature and Languages'.
+- I finally graduate from the University of Stirling, ranking 1st in all modules and the dissertation. I am also the first person in the history of the Linguistics Department to be receiving the 'Research-Based Learning Prize for the best Master’s dissertation in Literature and Languages'.
