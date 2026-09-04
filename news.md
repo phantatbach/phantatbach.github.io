@@ -8,8 +8,6 @@ permalink: /news/
 
 A timeline of research updates, paper acceptances, publications, conference presentations, and invited talks.
 
-*The dates below refer to roughly when I received the news, rather than the eventual publication or presentation date. For older entries where I do not have the exact notification date, the month is approximate.*
-
 ## 2026
 
 ### July 2026
@@ -92,3 +90,15 @@ A timeline of research updates, paper acceptances, publications, conference pres
 
 - Our work **“Sentiment Reasoning for Healthcare”** was accepted for presentation at the **Advancements in Medical Foundation Models: Explainability, Robustness, Security, and Beyond (AIM-FM) Workshop at NeurIPS 2024**.  
   [Workshop](https://neurips.cc/virtual/2024/workshop/84711)
+
+### May 2024
+
+- I got admitted into the PhD Programme at KU Leuven, as part of the MSCA Doctoral Network CASCADE.
+
+---
+
+## 2022
+
+### Oct 2022
+
+- I finally graduated from Stirling University, ranking 1st in all modules and the dissertation. I am also the first person in the history of the Linguistics Department to be receiving the 'Research-Based Learning Prize for the best Master’s dissertation in Literature and Languages'.
