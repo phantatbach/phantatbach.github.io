@@ -6,8 +6,6 @@ permalink: /news/
 
 # News
 
-A timeline of research updates, paper acceptances, publications, conference presentations, and invited talks.
-
 ## 2026
 
 ### July 2026
