@@ -28,6 +28,18 @@ My other, non-research interests are Martial Arts and (Classical) Singing (I am 
 
 ---
 
+# Contact me
+
+- Email: phantatbach AT gmail.com
+- [X](https://x.com/phantatbach)
+- [LinkedIn](https://linkedin.com/in/phantatbach)
+- [Bluesky](https://bsky.app/profile/phantatbach.bsky.social)
+- [ORCID](https://orcid.org/0000-0002-8216-4978)
+- [Github](https://github.com/phantatbach)
+- [Google Scholar](https://scholar.google.com/citations?user=wqWxx7wAAAAJ&hl=en)
+
+---
+
 # Recent news
 
 ## 2026
@@ -86,15 +98,3 @@ My other, non-research interests are Martial Arts and (Classical) Singing (I am 
   [Seminar series](https://datainhistoricallinguistics.wordpress.com/2026-programme/)
 
 [Older news]({{ '/news/' | relative_url }})
-
----
-
-# Contact me
-
-- Email: phantatbach AT gmail.com
-- [X](https://x.com/phantatbach)
-- [LinkedIn](https://linkedin.com/in/phantatbach)
-- [Bluesky](https://bsky.app/profile/phantatbach.bsky.social)
-- [ORCID](https://orcid.org/0000-0002-8216-4978)
-- [Github](https://github.com/phantatbach)
-- [Google Scholar](https://scholar.google.com/citations?user=wqWxx7wAAAAJ&hl=en)
