@@ -9,25 +9,27 @@ permalink: /
 <!-- This doesn't need the helper for picture embedding-->
 <img src="assets/media/index/Mugshot2.jpg" alt="Mugshot" style="float: right; margin-left: 20px; width: 150px; height: auto;">
 
-# About me
-
-# About me
-
 I am a PhD researcher in computational linguistics at the QLVL Research Group, KU Leuven, and a member of the Marie Skłodowska-Curie Doctoral Network CASCADE. My research focuses on **semantic and conceptual change**, particularly on how changes in meaning can be detected, modelled, and explained through changes in linguistic behaviour over time.
 
 My PhD currently develops along three related lines of research. First, I work on **interpretable, theory-driven computational methods** for studying language change. Second, I develop **research software and tools** for large-scale linguistic analysis. Third, I investigate how **data quality, annotation, task formulation, and methodological choices** interact and shape the conclusions drawn from computational models.
 
-My main research interests are:
-
-* Interpretable, theory-driven computational modelling for Diachronic semantics
-* Tools for diachronic semantics
-* The interaction between data, methods and evaluation
-
-More broadly, I am interested in and currently learning about **complex systems, time-series modelling, and financial engineering**.
-
 Before joining KU Leuven, I completed an MSc in Linguistics at the University of Stirling. I have also worked on applied NLP problems involving speech recognition, speech translation, large language models, and multimodal learning.
 
 Outside research, my main interests are martial arts and classical singing.
+
+---
+
+# Research interests
+
+My main research interests are:
+
+* **Interpretable, theory-driven computational modelling of diachronic semantics**, including dependency-based and semantic representations ([Transparent Semantic Change Detection](https://aclanthology.org/2026.lchange-1.8/); [ReFRAME or Remain](https://aclanthology.org/2026.starsem-conference.5/)).
+* **Research software for diachronic linguistic analysis**, particularly tools that connect quantitative change detection with interpretable linguistic evidence ([SynFlow](https://arxiv.org/abs/2608.19472)).
+* **The interaction between data, methods, and evaluation**, including how annotation, benchmark design, operationalisation, and methodological choices affect conclusions about language change ([Evaluating the Evaluator](https://doi.org/10.5334/johd.547); [Methods, Data, and Conceptual Change](https://doi.org/10.5334/johd.554)).
+
+More broadly, I am interested in and currently learning about **complex systems, time-series modelling, and financial engineering**.
+
+If any of these topics sound interesting, feel free to reach out.
 
 ---
 
