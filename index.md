@@ -89,15 +89,6 @@ My other, non-research interests are Martial Arts and (Classical) Singing (I am 
 
 ---
 
-# Useful links
-
-- [Publications]({{ '/publications/' | relative_url }})
-- [Curriculum Vitae]({{ '/cv/' | relative_url }})
-- [Blog]({{ '/articles/' | relative_url }})
-- [Personal Teaching]({{ '/classes/' | relative_url }})
-
----
-
 # Contact me
 
 - Email: phantatbach AT gmail.com
