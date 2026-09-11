@@ -1,5 +1,5 @@
 ---
-title: "Classes"
+title: "Personal Teaching"
 layout: default
 permalink: /classes/
 ---
