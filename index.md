@@ -23,9 +23,9 @@ Outside research, my main interests are martial arts and classical singing.
 
 My main research interests are:
 
-* **Interpretable, theory-driven computational modelling of diachronic semantics**, including dependency-based and semantic representations ([Transparent Semantic Change Detection](https://aclanthology.org/2026.lchange-1.8/); [ReFRAME or Remain](https://aclanthology.org/2026.starsem-conference.5/)).
-* **Research software for diachronic linguistic analysis**, particularly tools that connect quantitative change detection with interpretable linguistic evidence ([SynFlow](https://arxiv.org/abs/2608.19472)).
-* **The interaction between data, methods, and evaluation**, including how annotation, benchmark design, operationalisation, and methodological choices affect conclusions about language change ([Evaluating the Evaluator](https://doi.org/10.5334/johd.547); [Methods, Data, and Conceptual Change](https://doi.org/10.5334/johd.554)).
+* **Interpretable, theory-driven computational modelling of diachronic semantics** ([Transparent Semantic Change Detection](https://aclanthology.org/2026.lchange-1.8/); [ReFRAME or Remain](https://aclanthology.org/2026.starsem-conference.5/)).
+* **Research software for diachronic linguistic analysis** ([SynFlow](https://arxiv.org/abs/2608.19472)).
+* **The interaction between data, methods, and evaluation** ([Evaluating the Evaluator](https://doi.org/10.5334/johd.547); [Methods, Data, and Conceptual Change](https://doi.org/10.5334/johd.554)).
 
 More broadly, I am interested in and currently learning about **complex systems, time-series modelling, and financial engineering**.
 
