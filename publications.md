@@ -14,7 +14,7 @@ permalink: /publications/
 2. **Bách Phan-Tất, Kris Heylen, Dirk Geeraerts, Stefano De Pascale, and Dirk Speelman.** “Evaluating the Evaluator: Problems with SemEval-2020 Task 1 for Lexical Semantic Change Detection.” *Journal of Open Humanities Data* (2026).  
    [DOI](https://doi.org/10.5334/johd.547)
 
-3. **Bách Phan-Tất, Kris Heylen, Stefano De Pascale, Dirk Geeraerts, and Dirk Speelman.** “ReFRAME or Remain: Unsupervised Lexical Semantic Change Detection with Frame Semantics.” In *Proceedings of the 15th Joint Conference on Lexical and Computational Semantics (*SEM 2026)*, pp. 83–98.  
+3. **Bách Phan-Tất, Kris Heylen, Stefano De Pascale, Dirk Geeraerts, and Dirk Speelman.** “ReFRAME or Remain: Unsupervised Lexical Semantic Change Detection with Frame Semantics.” In *Proceedings of the 15th Joint Conference on Lexical and Computational Semantics*, pp. 83–98.  
    [ACL Anthology](https://aclanthology.org/2026.starsem-conference.5/)
 
 4. **Bách Phan-Tất, Kris Heylen, Dirk Geeraerts, Stefano De Pascale, and Dirk Speelman.** “Transparent Semantic Change Detection with Dependency-Based Profiles.” In *The Proceedings for the 6th International Workshop on Computational Approaches to Language Change (LChange’26)*, pp. 97–109.  
@@ -39,7 +39,7 @@ permalink: /publications/
 1. **Bách Phan-Tất, Kris Heylen, Dirk Geeraerts, Stefano De Pascale, and Dirk Speelman.** “SynFlow: A Multidimensional Diachronic Semantic Analysis Toolkit.” arXiv preprint, 2026.  
    [arXiv](https://arxiv.org/abs/2608.19472)
 
-2. **Duc Cao-Dinh, Khai Le-Duc, Anh Dao, et al., including Bách Phan-Tất.** “Audio-3DVG: Unified Audio–Point Cloud Fusion for 3D Visual Grounding.” arXiv preprint, 2025.  
+2. **Duc Cao-Dinh, Khai Le-Duc, Anh Dao, Bách Phan-Tất, Chris Ngo, Duy M. H. Nguyen, Nguyen X. Khanh, and Thanh Nguyen-Tang.** “Audio-3DVG: Unified Audio–Point Cloud Fusion for 3D Visual Grounding.” arXiv preprint, 2025.  
    [arXiv](https://arxiv.org/abs/2507.00669)
 
 *Presentations, invited talks, and conference abstracts without a publication are excluded from this list.*
