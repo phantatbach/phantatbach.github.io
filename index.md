@@ -12,7 +12,7 @@ I am a PhD researcher in computational linguistics at the QLVL Research Group, K
 
 My current research spans three related lines. First, I work on **interpretable, theory-driven computational methods** for studying semantic change. Second, I develop **research software** for large-scale linguistic analysis. Third, I investigate how **data quality, annotation, task formulation, and methodological choices** interact and shape the conclusions drawn from computational models.
 
-Before joining KU Leuven, I completed an MSc in Linguistics at the University of Stirling. I have also worked on applied NLP problems involving speech recognition, speech translation, large language models, and multimodal learning.
+Before joining KU Leuven, I completed an MSc in Linguistics at the University of Stirling. I have also worked on applied NLP problems involving speech recognition, speech translation, large language models.
 
 Outside research, my main interests are martial arts and classical singing.
 
