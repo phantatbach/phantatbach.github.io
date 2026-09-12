@@ -6,12 +6,11 @@ permalink: /
 
 # About me
 
-<!-- This doesn't need the helper for picture embedding-->
 <img src="assets/media/index/Mugshot2.jpg" alt="Mugshot" style="float: right; margin-left: 20px; width: 150px; height: auto;">
 
-I am a PhD researcher in computational linguistics at the QLVL Research Group, KU Leuven, and a member of the Marie Skłodowska-Curie Doctoral Network CASCADE. My research focuses on **semantic and conceptual change**, particularly on how changes in meaning can be detected, modelled, and explained through changes in linguistic behaviour over time.
+I am a PhD researcher in computational linguistics at the QLVL Research Group, KU Leuven, and a member of the Marie Skłodowska-Curie Doctoral Network CASCADE. My research focuses on **semantic and conceptual change**, particularly on how changes in meaning can be detected, modelled, and explained through linguistic behaviours.
 
-My PhD currently develops along three related lines of research. First, I work on **interpretable, theory-driven computational methods** for studying language change. Second, I develop **research software and tools** for large-scale linguistic analysis. Third, I investigate how **data quality, annotation, task formulation, and methodological choices** interact and shape the conclusions drawn from computational models.
+My current research spans three related lines. First, I work on **interpretable, theory-driven computational methods** for studying semantic change. Second, I develop **research software** for large-scale linguistic analysis. Third, I investigate how **data quality, annotation, task formulation, and methodological choices** interact and shape the conclusions drawn from computational models.
 
 Before joining KU Leuven, I completed an MSc in Linguistics at the University of Stirling. I have also worked on applied NLP problems involving speech recognition, speech translation, large language models, and multimodal learning.
 
@@ -27,7 +26,9 @@ My main research interests are:
 * **Research software for linguistic analysis** ([SynFlow](https://arxiv.org/abs/2608.19472)).
 * **The interaction between data, methods, and evaluation** ([Evaluating the Evaluator](https://doi.org/10.5334/johd.547); [Methods, Data, and Conceptual Change](https://doi.org/10.5334/johd.554)).
 
-More broadly, I am interested in and currently learning about **complex systems, time-series modelling, and financial engineering**.
+I also explore interdisciplinary applications of these methods, such as in the history of science ([Discursive Parallels of the Chemical Revolution](https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361/9783839447529-271)), and in other fields where computational approaches can help trace and interpret change over time.
+
+I am interested in and currently learning about **complex systems, time-series modelling, and financial engineering**.
 
 If any of these topics sound interesting, feel free to reach out.
 
