@@ -28,7 +28,7 @@ My main research interests are:
 
 I also explore interdisciplinary applications of these methods, such as in the history of science ([Discursive Parallels of the Chemical Revolution](https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361/9783839447529-271)), and in other fields where computational approaches can help trace and interpret change over time.
 
-I am interested in and currently learning about **complex systems, time-series modelling, and financial engineering**.
+More recently, I have been learning about complex systems, time-series modelling, and financial engineering.
 
 If any of these topics sound interesting, feel free to reach out.
 
