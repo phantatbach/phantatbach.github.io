@@ -36,10 +36,9 @@ If any of these topics sound interesting, feel free to reach out.
 
 # Contact me
 
-- Email: phantatbach AT gmail.com
+- Email: phantatbach.work AT gmail.com
 - [X](https://x.com/phantatbach)
 - [LinkedIn](https://linkedin.com/in/phantatbach)
-- [Bluesky](https://bsky.app/profile/phantatbach.bsky.social)
 - [ORCID](https://orcid.org/0000-0002-8216-4978)
 - [Github](https://github.com/phantatbach)
 - [Google Scholar](https://scholar.google.com/citations?user=wqWxx7wAAAAJ&hl=en)
@@ -49,6 +48,15 @@ If any of these topics sound interesting, feel free to reach out.
 # Recent news
 
 ## 2026
+
+### Sep 2026
+- My new preprint **"SynFlow: A Multidimensional Diachronic Semantic Analysis Toolkit"** is out!
+  [Preprint](https://arxiv.org/abs/2608.19472)
+
+### Sep 2026
+
+- My abstract **“Underlying Dimensions of Semantic Change”** was accepted for presentation at the **CogLing Day** conference at KU Leuven.
+  [Conference](https://benecla.com/2026/04/28/call-for-papers-cogling-days-2026/)
 
 ### July 2026
 
