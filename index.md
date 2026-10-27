@@ -81,6 +81,7 @@ If any of these topics sounds interesting, feel free to reach out.
   [Conference](https://lotschool.nl/registration-now-open-1st-lot-conference-8-may-2026-utrecht/)
 
 - I was invited to give a talk on **“Underlying Dimensions of Semantic Change”** at the **Leuven.AI NLP & Text Mining Seminar**.
+  [Seminar](https://ai.kuleuven.be/events/nlp-and-text-mining-seminar-underlying-dimensions-of-semantics-change)
 
 ### February 2026
 
