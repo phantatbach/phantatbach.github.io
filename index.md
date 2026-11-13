@@ -24,7 +24,7 @@ My main research interests are:
 
 * **Interpretable, theory-driven computational modelling of semantic change** ([Transparent Semantic Change Detection](https://aclanthology.org/2026.lchange-1.8/); [ReFRAME or Remain](https://aclanthology.org/2026.starsem-conference.5/)).
 * **Research software for linguistic analysis** ([SynFlow](https://arxiv.org/abs/2608.19472)).
-* **Datasets, benchmarks & resources** ([Evaluating the Evaluator](https://doi.org/10.5334/johd.547))(
+* **Datasets, benchmarks & resources** ([Evaluating the Evaluator](https://doi.org/10.5334/johd.547))
 * **Interdisciplinary applications** ([Methods, Data, and Conceptual Change](https://doi.org/10.5334/johd.554); [Discursive Parallels of the Chemical Revolution](https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361/9783839447529-271)).
 
 I also explore interdisciplinary applications in other fields where computational approaches can help trace and interpret **change** over time and I am learning about complex systems, time-series modelling, and financial engineering.
