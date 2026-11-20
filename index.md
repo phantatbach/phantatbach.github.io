@@ -48,7 +48,7 @@ If any of these topics sounds interesting, feel free to reach out.
 
 ## 2026
 
-### Sep 2026
+### Nov 2026
 - My new preprint **"The Linguistic Structure of Dependency-Conditioned Embeddings"** is out! [arXiv](https://arxiv.org/abs/2611.25909)
 
 ### Sep 2026
@@ -91,13 +91,5 @@ If any of these topics sounds interesting, feel free to reach out.
 - Two of my abstracts were accepted for presentation at **ICAME 47** in Koblenz:
   - **“SynFlow: Continuous Semantic Change Analysis via Dependency Co-occurrences”**
   - **“Conceptual Change during the Chemical Revolution: Air, Acid, and Water in the Royal Society Corpus”** [Conference](https://icame.info/icame-47-may-2026/)
-
-## 2025
-
-### November 2025
-
-- My abstract **“Slot-Filler Distributional Changes in Times of Scientific Debate: A Case Study of Air”** was accepted for presentation at **Quantitative Diachronic Linguistics and Cultural Analytics** at King’s College London. [Conference](https://www.kcl.ac.uk/events/quantitative-diachronic-linguistics-and-cultural-analytics-data-driven-insights-into-language-and-cultural-change)
-
-- I was invited to give a talk on **“SynFlow: Continuous Semantics Change Analysis via Dependency Co-occurrences”** in the **Data in Historical Linguistics Seminar Series**. [Seminar series](https://datainhistoricallinguistics.wordpress.com/2026-programme/)
 
 [Older news]({{ '/news/' | relative_url }})
