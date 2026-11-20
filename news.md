@@ -9,6 +9,8 @@ permalink: /news/
 ## 2026
 
 ### Nov 2026
+- My new preprint **"Visualising Conceptual Change through Discourse: A graph – based strategy"** is out! [XSci](https://xsci.com/preprint/doi/10.66977/xsci.2611.003i)
+
 - My new preprint **"The Linguistic Structure of Dependency-Conditioned Embeddings"** is out! [arXiv](https://arxiv.org/abs/2611.25909)
 
 ### Sep 2026
