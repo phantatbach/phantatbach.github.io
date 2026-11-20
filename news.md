@@ -8,8 +8,11 @@ permalink: /news/
 
 ## 2026
 
+### Nov 2026
+- My new preprint **"The Linguistic Structure of Dependency-Conditioned Embeddings"** is out! [arXiv](https://arxiv.org/abs/2611.25909)
+
 ### Sep 2026
-- My new preprint **"SynFlow: A Multidimensional Diachronic Semantic Analysis Toolkit"** is out! [Preprint](https://arxiv.org/abs/2608.19472)
+- My new preprint **"SynFlow: A Multidimensional Diachronic Semantic Analysis Toolkit"** is out! [arXiv](https://arxiv.org/abs/2608.19472)
 
 ### Sep 2026
 
