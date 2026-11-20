@@ -30,8 +30,8 @@ permalink: /publications/
 * **Bách Phan-Tất, Tung Kieu, Kris Heylen, Dirk Geeraerts, Stefano De Pascale, and Dirk Speelman.** “The
 Linguistic Structure of Dependency-Conditioned Embeddings” arXiv preprint, 2026. [arXiv](https://arxiv.org/abs/2611.25909)
 
-*. **Bách Phan-Tất, Kris Heylen, Dirk Geeraerts, Stefano De Pascale, and Dirk Speelman.** “SynFlow: A Multidimensional Diachronic Semantic Analysis Toolkit.” arXiv preprint, 2026. [arXiv](https://arxiv.org/abs/2608.19472)
+* **Bách Phan-Tất, Kris Heylen, Dirk Geeraerts, Stefano De Pascale, and Dirk Speelman.** “SynFlow: A Multidimensional Diachronic Semantic Analysis Toolkit.” arXiv preprint, 2026. [arXiv](https://arxiv.org/abs/2608.19472)
 
-*. **Duc Cao-Dinh, Khai Le-Duc, Anh Dao, Bách Phan-Tất, Chris Ngo, Duy M. H. Nguyen, Nguyen X. Khanh, and Thanh Nguyen-Tang.** “Audio-3DVG: Unified Audio–Point Cloud Fusion for 3D Visual Grounding.” arXiv preprint, 2025. [arXiv](https://arxiv.org/abs/2507.00669)
+* **Duc Cao-Dinh, Khai Le-Duc, Anh Dao, Bách Phan-Tất, Chris Ngo, Duy M. H. Nguyen, Nguyen X. Khanh, and Thanh Nguyen-Tang.** “Audio-3DVG: Unified Audio–Point Cloud Fusion for 3D Visual Grounding.” arXiv preprint, 2025. [arXiv](https://arxiv.org/abs/2507.00669)
 
 *Presentations, invited talks, and conference abstracts without a publication are excluded from this list.*
