@@ -27,7 +27,10 @@ permalink: /publications/
 * **Khai Le-Duc, Phuc Phan, Tan-Hanh Pham, Bách Phan-Tất, Minh-Huong Ngo, Thanh Nguyen-Tang, and Truong-Son Hy.** “MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder.” In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 6: Industry Track)*. [ACL Anthology](https://aclanthology.org/2025.acl-industry.79/)
 
 # Preprints
-* **Bách Phan-Tất, Tung Kieu, Kris Heylen, Dirk Geeraerts, Stefano De Pascale, and Dirk Speelman.** “The
+
+* **Bách Phan-Tất. "Visualising Conceptual Change through Discourse: A graph – based strategy"** XSci preprint, 2026. [XSci](https://xsci.com/preprint/doi/10.66977/xsci.2611.003i)
+
+* **Bách Phan-Tất, Kris Heylen, Dirk Geeraerts, Stefano De Pascale, Tung Kieu, and Dirk Speelman.** “The
 Linguistic Structure of Dependency-Conditioned Embeddings” arXiv preprint, 2026. [arXiv](https://arxiv.org/abs/2611.25909)
 
 * **Bách Phan-Tất, Kris Heylen, Dirk Geeraerts, Stefano De Pascale, and Dirk Speelman.** “SynFlow: A Multidimensional Diachronic Semantic Analysis Toolkit.” arXiv preprint, 2026. [arXiv](https://arxiv.org/abs/2608.19472)
