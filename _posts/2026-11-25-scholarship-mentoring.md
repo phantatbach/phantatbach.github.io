@@ -27,6 +27,8 @@ The document and application form fees cover iterative feedback and one-to-one c
 
 Fees cover feedback on content, structure, argumentation and language, rather than writing documents on behalf of applicants.
 
+**Note:** For additional documents not listed above, please contact me by email.
+
 ---
 
 ## 3. Process
