@@ -46,3 +46,6 @@ For highly specialised assignments outside my area of expertise, my comments wil
 </div>
 
 - Distinction for a master’s dissertation in TESOL at Nottingham Trent University.
+<div style="display: flex; justify-content: center; padding: 20px;">
+    <img src="{{ site.baseurl }}/assets/media/posts/2026-11-15-writing-feedback-assignment.png" alt="Illustration" style="width: 500px; height: auto;">
+</div>
