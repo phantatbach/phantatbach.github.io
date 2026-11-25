@@ -44,3 +44,5 @@ For highly specialised assignments outside my area of expertise, my comments wil
 <div style="display: flex; justify-content: center; padding: 20px;">
     <img src="{{ site.baseurl }}/assets/media/posts/2022-12-01-writing-feedback-assignment.png" alt="Illustration" style="width: 500px; height: auto;">
 </div>
+
+- Distinction for a master’s dissertation in TESOL at Nottingham Trent University.
