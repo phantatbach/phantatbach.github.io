@@ -16,9 +16,9 @@ layout: post
 
 The document and application form fees cover iterative feedback and one-to-one consultations from registration until the agreed application deadline. Interview preparation is charged separately per session.
 
-- **CV / Résumé:** 3,000,000 VND
+- **CV / Résumé:** 1,000,000 VND per document
 - **Statement of Purpose / Letter of Intent / Motivation Letter / Personal Statement:** 3,000,000 VND per document
-- **Letter of Recommendation (LOR):** 3,000,000 VND (up to two recommenders)
+- **Letter of Recommendation (LOR):** 1,000,000 VND per document
 - **Scholarship Essay:** 3,000,000 VND per document
 - **Research / Teaching Statement / Intent:** 3,000,000 VND per document
 - **Research Proposal (MRes or PhD applications only):** 3,000,000–5,000,000 VND per document
