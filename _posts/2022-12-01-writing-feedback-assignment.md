@@ -21,23 +21,19 @@ layout: post
 
 ---
 
-## 3. Sample feedback
-
----
-
-## 4. Process
+## 3. Process
 
 After registration, email me your writing. I will return it with detailed comments.
 
 ---
 
-## 5. Note
+## 4. Note
 
 For highly specialised assignments outside my area of expertise, my comments will be primarily advisory and intended to provide general guidance.
 
 ---
 
-## 6. Selected results
+## 5. Selected results
 
 - 76% (Distinction) for a master's dissertation in Applied Linguistics at Lancaster University.
 
