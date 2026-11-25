@@ -23,7 +23,7 @@ The document and application form fees cover iterative feedback and one-to-one c
 - **Research Statement / Research Intent:** 3,000,000 VND per document
 - **Research Proposal:** 3,000,000 VND
 - **Admission / Scholarship Application Form:** 1,500,000–3,000,000 VND per form, depending on the length and complexity of the required responses.
-- **Interview Preparation:** 600,000 VND per session
+- **Interview Preparation:** 1,000,000 VND per one-hour session
 
 Fees cover feedback on content, structure, argumentation and language, rather than writing documents on behalf of applicants.
 
