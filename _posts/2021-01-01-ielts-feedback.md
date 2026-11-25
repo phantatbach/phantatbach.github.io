@@ -17,12 +17,12 @@ Your writing may be used as an example in my courses, with personal information 
 
 ### Fees
 
-- Overview: 500,000 VND per session (two sessions).
+- Overview: 600,000 VND per session (two sessions).
 - Feedback: 200,000 VND per submission (maximum 500 words; minimum five submissions, to be used within one month).
 
 ### Process
 
-After registration, email me your writing. I will return it with detailed feedback.
+After registration, email me your piece of writing. I will return a detailed feedback-ed version.
 
 ---
 
@@ -39,7 +39,7 @@ You may use your own speaking question sets. Recordings may be used as examples 
 ### Fees
 
 - Overview: 600,000 VND (available as a standalone session).
-- Feedback: 250,000 VND per session (minimum five sessions, to be completed within two weeks).
+- Feedback: 200,000 VND per session (minimum five sessions, to be completed within two weeks).
 
 ### Process
 
