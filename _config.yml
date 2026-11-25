@@ -27,7 +27,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md", title: "Publications"}
   - {file: "cv.md", title: "CV"}
   - {file: "articles.md", title: "Blog"}
-  - {file: "classes.md", title: "Services"}
+  - {file: "services.md", title: "Services"}
 
 # external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #   - {title: Mail, icon: envelope, url: "mailto:phantatbach@gmail.com"}

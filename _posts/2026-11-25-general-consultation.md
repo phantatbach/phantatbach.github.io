@@ -11,6 +11,8 @@ General guidance on:
 - Scholarship opportunities and applications.
 - Student life and everyday living abroad.
 
+- **Platform:** Email + online meeting platforms.
+
 ## 2. Fees
 
 - **Email consultation:** Free of charge.

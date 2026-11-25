@@ -10,7 +10,7 @@ permalink: /ielts-feedback/
 
 - **Overview sessions:** Two one-hour sessions covering IELTS Writing Tasks 1 and 2.
 - **Feedback:** Detailed comments on logic, grammar, vocabulary and ideas for both tasks.
-- **Platform:** Email.
+- **Platform:** Email + online meeting platforms.
 - **Turnaround time:** 24–48 hours. You will be notified of any exceptional delays.
 
 Your writing may be used as an example in my courses, with personal information anonymised.
@@ -33,6 +33,7 @@ After registration, email me your piece of writing. I will return a detailed fee
 - **Overview session (approximately 90 minutes):** An introduction to IELTS Speaking, including answering strategies and questions.
 - **Feedback sessions (15 minutes of speaking and 15 minutes of feedback):** Individual IELTS Speaking practice with feedback on structure, pronunciation, intonation, grammar, vocabulary and expressiveness.
 - Completion of the overview session is required before booking feedback sessions.
+- **Platform:** Email + online meeting platforms.
 
 You may use your own speaking question sets. Recordings may be used as examples in my courses, with personal information anonymised.
 

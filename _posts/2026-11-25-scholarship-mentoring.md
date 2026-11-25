@@ -6,7 +6,7 @@ layout: post
 ## 1. Service content
 
 - Receive feedback on your university and scholarship applications, including ideas, organisation, language and guidance on how to strengthen your applicant profile.
-- **Platform:** Email and online meetings.
+- **Platform:** Email + online meeting platforms.
 
 **Note:** Your application results may be used as examples for my services, with personal information anonymised.
 

@@ -1,12 +1,13 @@
 ---
 title: "Academic Writing Feedback"
 layout: post
+permalink: /writing-feedback-assignment/
 ---
 
 ## 1. Service content
 
 - Receive feedback on your university assignments, including ideas, organisation, grammar, vocabulary, citations and other aspects of academic writing.
-- **Platform:** Email.
+- **Platform:** Email + online meeting platforms.
 - **Turnaround time:** 24–72 hours. You will be notified of any exceptional delays.
 - You may also book a one-to-one consultation to discuss the feedback.
 
