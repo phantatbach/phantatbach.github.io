@@ -10,6 +10,6 @@ permalink: /others/
 
 Linguistic and non-linguistic writing, including essays on language, academia, studying abroad, and other topics.
 
-## [Personal Teaching]({{ '/classes/' | relative_url }})
+## [Services]({{ '/classes/' | relative_url }})
 
-Personal teaching materials and information about my courses and feedback services.
+English courses and feedback services.
