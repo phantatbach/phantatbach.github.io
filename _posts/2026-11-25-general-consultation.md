@@ -11,13 +11,12 @@ General guidance on:
 - Scholarship opportunities and applications.
 - Student life and everyday living abroad.
 
-- **Platform:** Email + online meeting platforms.
+- **Platform:** Email.
 
 ## 2. Fees
 
 - **Email consultation:** Free of charge.
-- **One-to-one online consultation:** 1,000,000 VND per one-hour session.
 
 ## 3. Process
 
-Please email me with your questions or to arrange an online consultation.
+Please email me with your questions.
