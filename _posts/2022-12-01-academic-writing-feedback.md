@@ -6,6 +6,8 @@ permalink: /writing-feedback-assignment/
 
 ## 1. Service content
 
+**Scope:** This service is exclusively for university coursework, including academic assignments, projects and dissertations. It does not cover scholarship application documents. For application-related feedback, please refer to [Scholarship Mentoring]({% post_url 2026-11-25-scholarship-mentoring %}).
+
 - Receive feedback on your university assignments, including ideas, organisation, grammar, vocabulary, citations and other aspects of academic writing.
 - **Platform:** Email + online meeting platforms.
 - **Turnaround time:** 24–72 hours. You will be notified of any exceptional delays.
