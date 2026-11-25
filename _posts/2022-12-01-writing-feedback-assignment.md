@@ -16,8 +16,8 @@ layout: post
 
 ## 2. Fees
 
-- **Written feedback:** 700,000 VND per submission (maximum 4,000 words).
-- **One-to-one consultation:** 500,000 VND per session (one hour).
+- **Written feedback + 1 one-to-one meeting:** 1,000,000 VND per submission (maximum 4,000 words).
+- **Supervisory including feedback and (bi)-weekly meetings:** 7,000,000 VND for the whole project/thesis.
 
 ---
 
